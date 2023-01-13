@@ -35,6 +35,10 @@ DEFAULT_PAGINATION = False
 ARTICLE_URL = "{category}/{slug}.html"
 ARTICLE_SAVE_AS = "{category}/{slug}.html"
 
+# for page
+PAGE_URL = "{slug}.html"
+PAGE_SAVE_AS = "{slug}.html"
+
 # for conference site author category is not needed
 AUTHOR_SAVE_AS = ""
 AUTHORS_SAVE_AS = ""
