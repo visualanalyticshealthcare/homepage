@@ -1,0 +1,57 @@
+{% extends "base.html" %}
+
+{% block meta %}
+<meta name="author" content="{{ article.author.name }}" />
+<meta name="description" content="{{ article.summary|striptags|escape }}" />
+<meta name="keywords" content="{{ article.tags|join(', ')|escape }}">
+{% endblock meta%}
+
+{% block title %}
+    {{ article.title|striptags|escape }} &ndash; {{ SITENAME }}
+{% endblock title %}
+
+{% block header %}
+{% if article.slug == 'index' %}
+
+<div class="container">
+    <div class="row">
+        <div class="col py-4">
+
+            <h1 class="header-title">
+                {{ article.title }}
+            </h1>
+            <p class="header-sub-title">
+                {{ article.summary }}
+            </p>
+
+        </div>
+    </div>
+</div>
+
+{% else %}
+
+<div class="container">
+    <div class="row">
+        <div class="col py-4">
+
+            <h1 id="{{ article.slug }}"
+                class="header-title">
+                {{ article.title }}
+            </h1>
+
+        </div>
+    </div>
+</div>
+
+{% endif %}
+
+{% endblock header %}
+
+{% block content %}
+   
+<!-- Article -->
+<div class="main-article">
+    {{ article.content }}
+</div>
+
+{% endblock content %}
