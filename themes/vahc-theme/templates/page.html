@@ -11,31 +11,34 @@
 {% endblock title %}
 
 {% block header %}
-    <div class="container">
-        <div class="row">
-            <div class="col-8">
-                <h3 id="{{ page.title }}" style="color: orange;">{{ page.title }}</h3>
-                {% if page.modified %}
-                    <p class="text-light">Last updated: {{ page.locale_modified }}</p>
-                {% else %}
-                    <p class="text-light">Post on: {{ page.locale_date }}</p>
-                {% endif %}
-            </div>
-            <div class="col-4 small" style="margin-top: 0.5rem;">
-                {% if ADD_THIS_ID and (page_name or page or article) %}
-                    <div class="text-right mb-2 small" style="height: 26px">
-                        <div class="addthis_inline_share_toolbox"></div>
-                    </div>
-                {% endif %}
-            </div>
+<div class="container">
+    <div class="row">
+        <div class="col py-4">
+
+            <h1 id="{{ page.slug }}"
+                class="header-title">
+                {{ page.title }}
+            </h1>
+
         </div>
     </div>
+</div>
+
 {% endblock header %}
 
 {% block add_this %}
 {# remove ADD_THIS in content, move to above header #}
 {% endblock add_this %}
 
+{% block navigation %}
+<a class="navbar-brand" href="{{ SITEURL }}">
+    &lt; Back to Home
+</a>
+{% endblock navigation %}
+
+
 {% block content %}
+<div class="main-article">
     {{ page.content }}
+</div>
 {% endblock content %}

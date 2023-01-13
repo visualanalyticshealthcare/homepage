@@ -243,3 +243,15 @@ li.tag-2 {
 .bg-vahc-theme-dark {
     background-color: #413d3d;
 }
+.badge-paper {
+    background-color: #f0a786;
+}
+.badge-podium {
+    background-color: #70aff3;
+}
+.badge-poster {
+    background-color: #d3f5a0;
+}
+.badge-demo {
+    background-color: #edf5a0;
+}
