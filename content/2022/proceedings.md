@@ -7,7 +7,7 @@ Summary: VAHC 2022 Proceedings
 
 # Proceedings of the 2022 Workshop on Visual Analytics in Healthcare (VAHC 2022)
 
-[All VAHC Proceedings >](../all-proceedings.html)
+[All VAHC Proceedings >](../page/all-proceedings.html)
 <p>&nbsp;</p>
 
 

@@ -20,7 +20,7 @@ Summary: VAHC {year} Proceedings
 
 # Proceedings of the {year} Workshop on Visual Analytics in Healthcare (VAHC {year})
 
-[All VAHC Proceedings >](../all-proceedings.html)
+[All VAHC Proceedings >](../page/all-proceedings.html)
 <p>&nbsp;</p>
 
 
