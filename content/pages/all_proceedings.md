@@ -9,13 +9,13 @@ Summary: All VAHC Proceedings
 Proceedings of the 2021 Workshop on Visual Analytics in Healthcare (VAHC 2021)
 
 - [IEEE Xplore](https://ieeexplore.ieee.org/xpl/conhome/9622896/proceeding)
-- [Here (33MB)](../VAHC2021/proceedings/VAHC-2021-Proceedings.pdf)
+- [Here (33MB)](../arxiv/2021/proceedings/VAHC-2021-Proceedings.pdf)
 
 
 Proceedings of the 2020 Workshop on Visual Analytics in Healthcare (VAHC 2020) 
 
-- [IEEE Xplore]()
-- [Access Here (15MB)](https://ieeexplore.ieee.org/xpl/conhome/9586792/proceeding)
+- [IEEE Xplore](https://ieeexplore.ieee.org/xpl/conhome/9586792/proceeding)
+- [Access Here (15MB)](../arxiv/2020/proceedings/VAHC_2020_proceedings.zip)
 
 
 Proceedings of the 2019 Workshop on Visual Analytics in Healthcare (VAHC 2019) 
@@ -25,7 +25,7 @@ Proceedings of the 2019 Workshop on Visual Analytics in Healthcare (VAHC 2019)
 
 Proceedings of the 2018 Workshop on Visual Analytics in Healthcare (VAHC 2018) 
 
-- [Access Here (15MB)]()
+- [Access Here (Zip file, 15MB)](../arxiv/2018/proceedings/VAHC_2018_proceedings.zip)
 
 
 Proceedings of the 2017 Workshop on Visual Analytics in Healthcare (VAHC 2017) 
@@ -35,7 +35,7 @@ Proceedings of the 2017 Workshop on Visual Analytics in Healthcare (VAHC 2017)
 
 Proceedings of the 2016 Workshop on Visual Analytics in Healthcare (VAHC 2016)
 
-- [Access Here (26MB)]()
+- [Access Here (26MB)](../arxiv/2016/proceedings/VAHC2016_Proceedings.pdf)
 
 
 Proceedings of the 2015 Workshop on Visual Analytics in Healthcare (VAHC 2015) 
@@ -45,29 +45,36 @@ Proceedings of the 2015 Workshop on Visual Analytics in Healthcare (VAHC 2015)
 
 Proceedings of the 2014 Workshop on Visual Analytics in Healthcare (VAHC 2014) 
 
-- [Access Here (36MB)]()
+- [Access Here (36MB)](../arxiv/2014/proceedings/VAHC2014_proceedings.pdf)
 - [Dropbox](https://dl.dropboxusercontent.com/u/4724665/VAHC2014_proceedings.pdf)
 
 
 Proceedings of the 2013 Workshop on Visual Analytics in Healthcare (VAHC 2013) 
 
-- [Access Here (43MB)]()
+- [Access Here (15MB)](../arxiv/2013/proceedings/VAHC2013_proceedings_LowRes.pdf)
+- [Access Here (46MB)](../arxiv/2013/proceedings/VAHC2013_proceedings.pdf)
 - [Dropbox](https://dl.dropboxusercontent.com/u/4724665/vahc2013_proceedings.pdf)
 
 
 Proceedings of the 2012 Workshop on Visual Analytics in Healthcare: Open Health Data (VAHC 2012) 
 
-- [Access Here (12MB)]()
+- [Access Here (12MB)](../arxiv/2012/proceedings/VAHC2012-proceedings.pdf)
 - [Dropbox](https://dl.dropboxusercontent.com/u/4724665/VAHC2012-proceedings.pdf)
 
 
 Proceedings of the 2011 Workshop on Visual Analytics in Healthcare: Understanding the Physician Perspective (VAHC 2011) 
 
-- [Access Here (8MB)]()
+- [Access Here (8MB)](../arxiv/2011/proceedings/VAHC2011-Proceedings-LowRes.pdf)
 - [Dropbox](https://dl.dropboxusercontent.com/u/4724665/VAHC2011-Proceedings-LowRes.pdf)
 
 
 
 Proceedings of the 2010 Workshop on Visual Analytics in Healthcare (VAHC 2010) 
 
-- [Access Here](http://research.ihost.com/vahc2010/program.html)
+- [iHost](http://research.ihost.com/vahc2010/program.html)
+
+
+[_]({static}/files/)
+[_]({static}/images/)
+[_]({static}/arxiv/)
+[_]({static}/proceedings/)

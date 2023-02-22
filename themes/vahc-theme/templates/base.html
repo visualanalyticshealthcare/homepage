@@ -11,40 +11,40 @@
 <head>
 {% block head %}
 
-    <!-- Required metadata tags -->
-    <meta charset="utf-8" />
-    <meta http-equiv="X-UA-Compatible" content="IE=edge" />
-    <meta name="HandheldFriendly" content="True" />
-    <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no" />
+<!-- Required metadata tags -->
+<meta charset="utf-8" />
+<meta http-equiv="X-UA-Compatible" content="IE=edge" />
+<meta name="HandheldFriendly" content="True" />
+<meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no" />
 
-    <!-- Default metadata -->
-    {% block meta %}
-    <meta name="author" content="{{ AUTHOR }}" />
-    <meta name="description" content="{{ SITEDESCRIPTION }}" />
-    {% endblock %}
+<!-- Default metadata -->
+{% block meta %}
+<meta name="author" content="{{ AUTHOR }}" />
+<meta name="description" content="{{ SITEDESCRIPTION }}" />
+{% endblock %}
 
-    <!-- Title -->
-    <title>
-    {% block title %}
-        {{ SITETITLE }}
-    {% endblock title %}
-    </title>
-    
-    <!-- Icon -->
-    <link rel="shortcut icon" href="../{{ THEME_STATIC_DIR }}/img/favicon.ico" type="image/x-icon">
-    <link rel="icon" href="../{{ THEME_STATIC_DIR }}/img/favicon.ico" type="image/x-icon">
+<!-- Title -->
+<title>
+{% block title %}
+    {{ SITETITLE }}
+{% endblock title %}
+</title>
 
-    <!-- Search engine -->
-    {% if page in hidden_pages %}
-        <meta name="robots" content="noindex, nofollow" />
-    {% else %}
-        <meta name="robots" content="{{ ROBOTS }}" />
-    {% endif %}
+<!-- Icon -->
+<link rel="shortcut icon" href="../{{ THEME_STATIC_DIR }}/img/favicon.ico" type="image/x-icon">
+<link rel="icon" href="../{{ THEME_STATIC_DIR }}/img/favicon.ico" type="image/x-icon">
 
-    <!-- Global Styles -->
-    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/bootstrap/4.6.0/css/bootstrap.min.css">
-    <!-- Theme Styles -->
-    <link rel="stylesheet" href="../{{ THEME_STATIC_DIR }}/css/style.css">
+<!-- Search engine -->
+{% if page in hidden_pages %}
+    <meta name="robots" content="noindex, nofollow" />
+{% else %}
+    <meta name="robots" content="{{ ROBOTS }}" />
+{% endif %}
+
+<!-- Global Styles -->
+<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/bootstrap/4.6.0/css/bootstrap.min.css">
+<!-- Theme Styles -->
+<link rel="stylesheet" href="../{{ THEME_STATIC_DIR }}/css/style.css">
 
 {% endblock head %}
 </head>
@@ -105,8 +105,11 @@
                     <div class="row">
                         {% for event in PAST_EVENTS %}
                         <div class="col col-md-6">
-                            {{ event[0] }}, 
-                            {{ event[1] }}
+                            <a target="_blank"
+                                href="../arxiv/{{ event[0] }}/">
+                                {{ event[0] }}, 
+                                {{ event[1] }}
+                            </a>
                         </div>
                         {% endfor %}
                     </div>
