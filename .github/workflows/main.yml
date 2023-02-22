@@ -18,7 +18,7 @@ jobs:
   # This workflow contains a single job called "build"
   build:
     # The type of runner that the job will run on
-    runs-on: ubuntu-20.04
+    runs-on: ubuntu-latest
 
     # Steps represent a sequence of tasks that will be executed as part of the job
     steps:
@@ -28,6 +28,10 @@ jobs:
       # Runs a single command using the runners shell
       - name: Run a one-line script
         run: echo Hello, Pelican!
+        
+      # Runs a fix for pelican
+      - name: Fix the git safe.directory
+        run: git config --global --add safe.directory /github/workspace/output
           
       # Runs a build for pelican
       - name: GitHub Pages Pelican Build Action
