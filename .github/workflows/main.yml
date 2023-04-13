@@ -28,6 +28,10 @@ jobs:
       # Runs a single command using the runners shell
       - name: Run a one-line script
         run: echo Hello, Pelican!
+        
+      # Runs a fix for pelican
+      - name: Fix the git safe.directory
+        run: git config --global --add safe.directory /github/workspace/output
           
       # Runs a build for pelican
       - name: GitHub Pages Pelican Build Action
