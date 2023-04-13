@@ -16,6 +16,8 @@ Summary: VAHC 2022 Proceedings
 [Patterns of Social Vulnerability – An Interactive Dashboard to Explore Risks to Public Health on the US County Level](../proceedings/2022/1006.html)
 
 *Darius Coelho, Nikita Gupta, Eric Papenhausen, Klaus Mueller*
+
+[Full-text PDF](../proceedings/2022/1006.pdf)
 <p>&nbsp;</p>
 
 
@@ -23,6 +25,8 @@ Summary: VAHC 2022 Proceedings
 [Browser-based Infographic Tailoring Self-service Interface (BITSI)](../proceedings/2022/1001.html)
 
 *Adriana Arcia, Daniel Chen, Katherine South*
+
+[Full-text PDF](../proceedings/2022/1001.pdf)
 <p>&nbsp;</p>
 
 
@@ -30,6 +34,8 @@ Summary: VAHC 2022 Proceedings
 [Applying Visual Analytics to Develop a Clinical Workflow Analysis Tool (CWAT) to Explore Time and Motion Data in Healthcare](../proceedings/2022/1021.html)
 
 *Danny T.Y. Wu, Derek Shu, Khanh Le, Ruthik Abbu, Kai Zheng*
+
+[Full-text PDF](../proceedings/2022/1021.pdf)
 <p>&nbsp;</p>
 
 
@@ -37,6 +43,8 @@ Summary: VAHC 2022 Proceedings
 [The Effects of Data Visualization on User Perceptions of a Health Chatbot](../proceedings/2022/1009.html)
 
 *Ha-Kyung Kong, Ruijia Zhu, Audrey Zhixin Lu, Mingao He, Weichao Yuwen*
+
+[Full-text PDF](../proceedings/2022/1009.pdf)
 <p>&nbsp;</p>
 
 
@@ -44,6 +52,8 @@ Summary: VAHC 2022 Proceedings
 [Evaluation of Data Visualizations for an Electronic Patient Preferences Tool for Older Adults Diagnosed with Hematologic Malignancies](../proceedings/2022/1035.html)
 
 *Elizabeth Kwong, Amy Cole, Amro Khasawneh, Carl Mhina, Lukasz Mazur, Karthik Adapa, Daniel R. Richardson*
+
+[Full-text PDF](../proceedings/2022/1035.pdf)
 <p>&nbsp;</p>
 
 
@@ -51,6 +61,8 @@ Summary: VAHC 2022 Proceedings
 [An In-depth Needs Analysis to Design a Data Visualization Dashboard Prototype for Critical Care Setting](../proceedings/2022/1045.html)
 
 *Humayera Islam, Xiaoxia Li, Kamruz Zaman Rana, Khuder Alaboud, Tanmoy Paul, Abdullah Maruf, Abu Saleh Mohammad Mosa*
+
+[Full-text PDF](../proceedings/2022/1045.pdf)
 <p>&nbsp;</p>
 
 
@@ -58,6 +70,8 @@ Summary: VAHC 2022 Proceedings
 [Expanding the existing Cadence event visual analysis tool to support the standardized data model OMOP CDM](../proceedings/2022/1000.html)
 
 *Natthawut (Max) Adulyanukosol, David Gotz*
+
+[Full-text PDF](../proceedings/2022/1000.pdf)
 <p>&nbsp;</p>
 
 
@@ -65,6 +79,8 @@ Summary: VAHC 2022 Proceedings
 [Examining Athletic Trainers' Impact on Student Athlete Emergency Room and Urgent Care Visits Using Electronic Health Records and Visual Analytics](../proceedings/2022/1002.html)
 
 *Abraham Kim, Scott Bonnette, Chen Xin, Victoria L. Graham, Kelsey Logan, Danny T.Y. Wu*
+
+[Full-text PDF](../proceedings/2022/1002.pdf)
 <p>&nbsp;</p>
 
 
@@ -72,13 +88,17 @@ Summary: VAHC 2022 Proceedings
 [Exploring the Sleep Patterns of Students in a Medical Sciences Baccalaureate Program using Self-Reported Data and Visual Analytics ](../proceedings/2022/1011.html)
 
 *Gargi Rajput, Andy Gao, Ching-Tzu Tsai, Jennifer R.V. Molano, Danny T.Y. Wu*
+
+[Full-text PDF](../proceedings/2022/1011.pdf)
 <p>&nbsp;</p>
 
 
 <span class="badge badge-poster">poster</span>
 [Assessing User Experience on Fitbit Sleep Data Visualization: A Pilot Study ](../proceedings/2022/1017.html)
 
-*Gargi Rajput1, Ching-Tzu Tsai1,2, Andy Gao1, Danny T.Y. Wu1,2*
+*Gargi Rajput, Ching-Tzu Tsai, Andy Gao, Danny T.Y. Wu*
+
+[Full-text PDF](../proceedings/2022/1017.pdf)
 <p>&nbsp;</p>
 
 
@@ -86,6 +106,8 @@ Summary: VAHC 2022 Proceedings
 [Applying Visual Analytics to Support Clinical Competency Assessment for Internal Medicine Residents](../proceedings/2022/1016.html)
 
 *Scott Vennemeyer, Andy Gao, Siyi Zhu, Ezra Edgerton, James Lee, Benjamin Kinnear, Daniel P Schauer, Michelle I. Knopp, Eric Warm, Danny T.Y Wu*
+
+[Full-text PDF](../proceedings/2022/1016.pdf)
 <p>&nbsp;</p>
 
 
@@ -93,6 +115,8 @@ Summary: VAHC 2022 Proceedings
 [Applying Visual Analytics to Develop a Web Application to Collect Real-time Clinician Well-being Levels in an Adult Academic Health System ](../proceedings/2022/1020.html)
 
 *Catherine T. Xu, Derek Shu, Hager Hamed, Somya Pandey, Virginia Walls, Kristen Tenney, Abby Lewis, Lisa Melink, Jennifer Molano, Danny T.Y. Wu*
+
+[Full-text PDF](../proceedings/2022/1020.pdf)
 <p>&nbsp;</p>
 
 
@@ -100,6 +124,8 @@ Summary: VAHC 2022 Proceedings
 [Visual Text Analysis for NLP System Evaluation and Development](../proceedings/2022/1018.html)
 
 *Huan He, Sunyang Fu, Liwei Wang, Andrew Wen, Sijia Liu, Sungrim Moon, Kurt Miller, Hongfang Liu*
+
+[Full-text PDF](../proceedings/2022/1018.pdf)
 <p>&nbsp;</p>
 
 
@@ -107,5 +133,7 @@ Summary: VAHC 2022 Proceedings
 [Towards Real-time Visual Exploration of Multiple Pairwise Meta-analysis Results of Clinical Outcomes](../proceedings/2022/1027.html)
 
 *Huan He, Irbaz Bin Riaz, Syed Arsalan Ahmed Naqvi, Rabbia Siddiqi, Noureen Asghar, Mahnoor Islam, M. Hassan Murad, Hongfang Liu*
+
+[Full-text PDF](../proceedings/2022/1027.pdf)
 <p>&nbsp;</p>
 

@@ -33,6 +33,8 @@ TPL_PROC_LINE = """
 [{title}](../proceedings/{year}/{paper_id}.html)
 
 *{authors}*
+
+[Full-text PDF](../proceedings/{year}/{paper_id}.pdf)
 <p>&nbsp;</p>
 """
 
@@ -47,6 +49,7 @@ TPL_PROC_PAGE = """<!doctype html>
 {meta_authors}
 <meta name="citation_publication_date" content="{publication_date}">
 <meta name="citation_journal_title" content="{journal_title}">
+<meta name="citation_pdf_url" content="{pdf_url}">
 </head>
 <body>
 <div class="paper">
@@ -54,6 +57,9 @@ TPL_PROC_PAGE = """<!doctype html>
 <h3>{title}</h3>
 <p>{authors}</p>
 <p>Abstract: {abstract}</p>
+<p>
+<a href="{pdf_url}">Full-text PDF</a>
+</p>
 </div>
 </body>
 </html>
@@ -91,7 +97,7 @@ for r in rs:
             year=year,
             paper_id=r['id'],
             paper_type=r['type'],
-            authors=r['authors']
+            authors=r['authors'],
         )
     )
 
@@ -114,6 +120,7 @@ for r in rs:
         abstract = r['abstract'],
         publication_date = r['publication_date'],
         journal_title = r['journal_title'],
+        pdf_url="./%s.pdf" % r['id']
     )
 
     # save this page as a single html
