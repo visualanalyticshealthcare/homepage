@@ -122,8 +122,23 @@
 {% block content %}
    
 <!-- Article -->
+
+{% if article.slug == 'index' %}
+<div class="row">
+
+    <div class="main-article col-md-7">
+        {{ article.content|cut_sec_important_dates(False) }}
+    </div>
+
+    <div class="main-article col-md-5">
+        {{ article.content|cut_sec_important_dates }}
+    </div>
+
+</div>
+{% else %}
 <div class="main-article">
     {{ article.content }}
 </div>
+{% endif %}
 
 {% endblock content %}

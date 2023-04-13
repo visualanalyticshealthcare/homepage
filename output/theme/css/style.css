@@ -213,6 +213,14 @@ li.tag-2 {
 .header-sub-title {
     font-size: 0.8em;
 }
+.content-left {
+    width: 60%;
+    padding: 5px;
+}
+.content-right {
+    width: 40%;
+    padding: 5px;
+}
 .main-article h1,
 .main-article h2,
 .main-article h3,
@@ -254,4 +262,14 @@ li.tag-2 {
 }
 .badge-demo {
     background-color: #edf5a0;
+}
+
+/* for mobile */
+@media (max-width: 720px) {
+    .content-left {
+        width: 100%;
+    }
+    .content-right {
+        width: 100%;
+    }
 }

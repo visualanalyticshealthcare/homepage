@@ -1,6 +1,6 @@
 Title: Committee
 Category: 2023
-Date: 2023-07-21
+Date: 2023-04-13
 Slug: committee
 Authors: VAHC Committee
 Summary: VAHC 2023 Committee
@@ -12,46 +12,72 @@ Organizing Committee
 General Chairs
 --------------
 
+- Jürgen Bernard, Univeristy of Zurich
 - Danny T.Y. Wu, University of Cincinnati
-- Ming-Yuan Chih,	University of Kentucky
-- Jesus J Caban, NICoE, Walter Reed Military Medical Center
+- Annie Chen, University of Washington
 
 
 Paper Chairs
 ------------
 
-- Karthik Adapa, University of North Carolina, Chapel Hill
-- Huan He, Mayo Clinic
-- Michael Tsai, KURA Care
-
-
-Design Chairs
--------------
-
 - Swami Kandaswamy, Emory University
-- Victor Lin, US Navy
-- Diana Lin, Madigan Army Medical Center
+- Karthik Adapa, University of North Carolina, Chapel Hill
+- Alessio Arleo, Technische Universität Wien
+
+
+Panel Chairs
+------------
+
+- TBD
+
+
+Poster and Demo Chairs
+----------------------
+
+- TBD
+
+
+Publicity Chair
+---------------
+
+- Gabriela Morgenshtern, Univeristy of Zurich
 
 
 Industry Chairs
 ---------------
 
 - Bum Chul Kwon, IBM Research
-- Paul Lo, Brigham and Women's Hospital
+- Jörn Kohlhammer, Fraunhofer IGD
 
 
-Student Chairs
---------------
+Web Chairs
+----------
 
+- Huan He, Mayo Clinic
 - Natthawut	(Max) Adulvanukosol, University of NC, Chapel Hill
-- Scott Vennemeyer, University of Cincinnati
+
+
+Special Issue Liaison
+---------------------
+
+- Jürgen Bernard, University of Zurich
+- David Gotz, UNC-Chapel Hill
+
+
+Special Issue Editors
+---------------------
+
+- Jürgen Bernard, University of Zurich
+- David Gotz, University of NC, Chapel Hill
+- Dannie
+- Annie Chen, University of Washington
+- Alessio Arleo, Technische Universität Wien
+- Karthik Adapa, University of North Carolina, Chapel Hill
 
 
 Steering Committee
 ==================
 
-- Jürgen Bernard, University of Zurich
-- Jesus J Caban, NICoE, WRMMC
 - David Gotz, University of NC, Chapel Hill
-- Jeremy Warner, Vanderbilt University
 - Danny T.Y. Wu, University of Cincinnati
+- Jürgen Bernard, University of Zurich

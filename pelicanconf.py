@@ -69,7 +69,7 @@ DEFAULT_YEAR = '2022'
 # for past events
 PAST_EVENTS = [
     # year, location, date, 
-    # ['2022', 'Washington, D.C.'],
+    ['2022', 'Washington, D.C.'],
     ['2021', 'Virtual'],
     ['2020', 'Virtual'],
     ['2019', 'Vancouver, BC, Canada'],
