@@ -48,12 +48,12 @@ TPL_PROC_PAGE = """<!doctype html>
 <meta name="citation_title" content="{title}">
 {meta_authors}
 <meta name="citation_publication_date" content="{publication_date}">
-<meta name="citation_journal_title" content="{journal_title}">
+<meta name="citation_conference_title" content="{citation_conference_title}">
 <meta name="citation_pdf_url" content="{pdf_url}">
 </head>
 <body>
 <div class="paper">
-<h2>{journal_title}</h2>
+<h2>{citation_conference_title}</h2>
 <h3>{title}</h3>
 <p>{authors}</p>
 <p>Abstract: {abstract}</p>
@@ -107,7 +107,7 @@ for r in rs:
     meta_authors = []
     for au in aus:
         meta_authors.append(TPL_PROC_PAGE_AUTHOR_LINE.format(
-            author = au
+            author = au.strip()
         ))
     meta_authors = '\n'.join(meta_authors)
 
@@ -119,7 +119,7 @@ for r in rs:
         authors = r['authors'],
         abstract = r['abstract'],
         publication_date = r['publication_date'],
-        journal_title = r['journal_title'],
+        citation_conference_title = r['citation_conference_title'],
         pdf_url="./%s.pdf" % r['id']
     )
 
