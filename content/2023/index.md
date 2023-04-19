@@ -21,7 +21,7 @@ We’re looking forward to seeing you in Melbourne.
 
 - Jürgen Bernard, Univeristy of Zurich
 - Danny T.Y. Wu, University of Cincinnati
-- Annie Chen, University of Washington
+- Annie T. Chen, University of Washington
 
 
 

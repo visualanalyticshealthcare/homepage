@@ -14,7 +14,7 @@ General Chairs
 
 - Jürgen Bernard, Univeristy of Zurich
 - Danny T.Y. Wu, University of Cincinnati
-- Annie Chen, University of Washington
+- Annie T. Chen, University of Washington
 
 
 Paper Chairs
@@ -69,7 +69,7 @@ Special Issue Editors
 
 - Jürgen Bernard, University of Zurich
 - David Gotz, University of NC, Chapel Hill
-- Annie Chen, University of Washington
+- Annie T. Chen, University of Washington
 - Alessio Arleo, Technische Universität Wien
 - Karthik Adapa, University of North Carolina, Chapel Hill
 
