@@ -8,6 +8,12 @@ Summary: All VAHC Proceedings
 
 Proceedings of the 2021 Workshop on Visual Analytics in Healthcare (VAHC 2021)
 
+- IEEE Xplore
+- [Here](../2022/proceedings.html)
+
+
+Proceedings of the 2021 Workshop on Visual Analytics in Healthcare (VAHC 2021)
+
 - [IEEE Xplore](https://ieeexplore.ieee.org/xpl/conhome/9622896/proceeding)
 - [Here (33MB)](../arxiv/2021/proceedings/VAHC-2021-Proceedings.pdf)
 

@@ -18,11 +18,14 @@ Slug: proceedings
 Authors: VAHC Committee
 Summary: VAHC {year} Proceedings
 
-# Proceedings of the {year} Workshop on Visual Analytics in Healthcare (VAHC {year})
+
+# All Proceedings
 
 [All VAHC Proceedings >](../page/all-proceedings.html)
 <p>&nbsp;</p>
 
+
+# Proceedings of the {year} Workshop on Visual Analytics in Healthcare (VAHC {year})
 
 {content}
 '''

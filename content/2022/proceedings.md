@@ -5,12 +5,12 @@ Slug: proceedings
 Authors: VAHC Committee
 Summary: VAHC 2022 Proceedings
 
-# Proceedings of the 2022 Workshop on Visual Analytics in Healthcare (VAHC 2022)
+# All Proceedings
 
 [All VAHC Proceedings >](../page/all-proceedings.html)
 <p>&nbsp;</p>
 
-
+# Proceedings of the 2022 Workshop on Visual Analytics in Healthcare (VAHC 2022)
 
 <span class="badge badge-podium">podium</span>
 [Patterns of Social Vulnerability – An Interactive Dashboard to Explore Risks to Public Health on the US County Level](../proceedings/2022/1006.html)
