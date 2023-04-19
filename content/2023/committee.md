@@ -69,7 +69,6 @@ Special Issue Editors
 
 - Jürgen Bernard, University of Zurich
 - David Gotz, University of NC, Chapel Hill
-- Dannie
 - Annie Chen, University of Washington
 - Alessio Arleo, Technische Universität Wien
 - Karthik Adapa, University of North Carolina, Chapel Hill
