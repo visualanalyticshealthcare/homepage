@@ -17,25 +17,34 @@ We’re looking forward to seeing you in Melbourne.
 
 <br>
 
-**VAHC 2023 General Chairs**
+**General Chair**
 
 - Jürgen Bernard, Univeristy of Zurich
+
+**Co-Chairs**
+
 - Danny T.Y. Wu, University of Cincinnati
 - Annie T. Chen, University of Washington
 
 
 
-JOIN OUR MAILING LIST
-=====================
 
-Visit [www.visualanalyticshealthcare.org](https://www.visualanalyticshealthcare.org) to join our mailing list.
+
+
 
 
 
 IMPORTANT DATES
 ===============
 
-- Deadline for submission:  July 17, 2023
-- Notification of acceptance: August 14, 2023
-- Camera-ready papers due: August 28, 2023
-- VAHC 2023 workshop: October 22 or 23, 2023
+- Deadline for submission:  **July 17, 2023**
+- Notification of acceptance: **August 14, 2023**
+- Camera-ready papers due: **August 28, 2023**
+- VAHC 2023 workshop: **October 22 or 23, 2023**
+
+
+
+LATEST NEWS
+===========
+
+- March 2022. Website migrated to GitHub.

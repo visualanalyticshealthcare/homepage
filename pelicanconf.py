@@ -63,7 +63,11 @@ ARCHIVES_SAVE_AS = ""
 CATEGORY_SAVE_AS = ""
 CATEGORIES_SAVE_AS = ""
 
+###########################################################
 # default conf year
+# 
+# this determines the landing page forwarding
+###########################################################
 DEFAULT_YEAR = '2023'
 
 # for past events

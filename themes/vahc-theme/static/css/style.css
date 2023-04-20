@@ -87,7 +87,7 @@ footer a {
 
 footer a:hover {
     color: #F5F5EC;
-    text-decoration: none;
+    text-decoration: underline;
 }
 
 .card-body {
@@ -263,7 +263,9 @@ li.tag-2 {
 .badge-demo {
     background-color: #edf5a0;
 }
-
+.link-past-event:hover {
+    color: white;
+}
 /* for mobile */
 @media (max-width: 720px) {
     .content-left {

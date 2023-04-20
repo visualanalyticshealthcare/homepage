@@ -114,6 +114,11 @@
                 Committee
             </a>
         </li>
+        <li class="nav-item">
+            <a class="nav-link" href="../page/past-events.html">
+                Past Events
+            </a>
+        </li>
     </ul>
 
 </div>
@@ -128,6 +133,45 @@
 
     <div class="main-article col-md-7">
         {{ article.content|cut_sec_important_dates(False) }}
+
+        <br>
+
+        <h1>
+            JOIN OUR MAILING LIST
+        </h1>
+
+        <!-- show join mailing list on index page -->
+        <div class="row">
+            <div class="col-md-6">
+                <form action="https://lists.unc.edu/subscribe/subscribe.tml" method="POST">
+
+                    <div class="mb-3">
+                        <label for="exampleInputEmail1" class="form-label">Email address:</label>
+                        <input type="email" name="email" class="form-control" id="exampleInputEmail1" aria-describedby="emailHelp">
+                    </div>
+        
+                    <div class="mb-3">
+                        <label for="exampleInputNmae" class="form-label">Your Name:</label>
+                        <input type="text" name="name" class="form-control" id="exampleInputName">
+                    </div>
+        
+                    <button type="submit" class="btn btn-primary">
+                        Subscribe
+                    </button>
+        
+                    <input type="hidden" name="list" value="vahc"><input type="hidden" name="lists" value="vahc">
+                    <input type="hidden" name="demographics" value="">
+                    <input type="hidden" name="name_required" value="T">
+                    <input type="hidden" name="pw_required" value="">
+                    <input type="hidden" name="confirm" value="one">
+                    <input type="hidden" name="showconfirm" value="T">
+                    <input type="hidden" name="url" value="">
+                    <input type="hidden" name="appendsubinfotourl" value="">
+                    <input type="hidden" name="secx" value="c8756f1c">
+        
+                </form>
+            </div>
+        </div>
     </div>
 
     <div class="main-article col-md-5">

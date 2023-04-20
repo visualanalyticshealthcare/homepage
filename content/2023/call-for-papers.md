@@ -15,7 +15,9 @@ The 2023 Workshop on Visual Analytics in Healthcare (VAHC 2023) is the 14th annu
 BEST PAPERS
 ===========
 
-VAHC assigns Best Paper and Honorable Mention awards. The awards entail a certificate and recognition on the VAHC website. This year, authors of high-quality papers that are topically appropriate will also be invited to submit a revised and extended version to an open call for the Special Issue of the Journal of the American Medical Informatics Association (JAMIA) on “Interactive Visualization of Health Data for Digital and Personal Health”. The review process will seek to assign the same reviewers for previously accepted VAHC papers.
+VAHC assigns Best Paper and Honorable Mention awards. The awards entail a certificate and recognition on the VAHC website. This year, authors of high-quality papers that are topically appropriate will also be invited to submit a revised and extended version to an open call for the Special Issue of the Journal of the American Medical Informatics Association (JAMIA) on “Interactive Visualization of Health Data for Digital and Personal Health”. 
+The review process will seek to assign the same reviewers for previously accepted VAHC papers.
+
 
 
 
@@ -69,9 +71,10 @@ We encourage a diverse range of submissions and demonstrations from academia, he
 - Positions and system demo papers (format “2+1”)
 - Posters (format: “2+1” abstract and A0 poster)
 
-Accepted application papers and research papers will be published in the IEEE Xplore digital library. Authors invited for submitting a revised paper version to JAMIA can choose between JAMIA and IEEE Xplore. Revised paper versions submitted to JAMIA will be part of the open call on Visual Analytics in Digital and Personal Health, while aiming at pertaining to the same reviewers as for VAHC. In the unlikely event that a revised paper submission will not be accepted by JAMIA, the paper will be published in the IEEE Xplore digital library. 
+Accepted application papers and research papers will be published in the IEEE Xplore digital library. Authors invited for submitting a revised paper version to JAMIA can choose between JAMIA and IEEE Xplore. Revised paper versions submitted to JAMIA will be part of the open call on *Visual Analytics in Digital and Personal Health*, while aiming at pertaining to the same reviewers as for VAHC. In the unlikely event that a revised paper submission will not be accepted by JAMIA, the paper will be published in the IEEE Xplore digital library. 
 
 Accepted system demo papers and posters will be included in the VAHC proceedings and made available via IEEE VIS for digital download.
+
 All accepted types of submissions will have the chance for an oral presentation.
 
 Demo: Every system demo paper may be accompanied by a video demo submission
@@ -89,18 +92,16 @@ Contact vahc.sig at gmail.com if you have any questions.
 IMPORTANT DATES
 ===============
 
-- Deadline for submission:  July 17, 2023
-- Notification of acceptance: August 14, 2023
-- Camera-ready papers due: August 28, 2023
-- VAHC 2023 workshop: October 22 or 23, 2023
-
-(All deadlines are set to 11:59pm AOE of the day) 
+- Deadline for submission: **July 17, 2023**
+- Notification of acceptance: **August 14, 2023**
+- Camera-ready papers due: **August 28, 2023**
+- VAHC 2023 workshop: **October 22 or 23, 2023**
 
 
 JOIN OUR MAILING LIST
 ===
 
-Visit [www.visualanalyticshealthcare.org](www.visualanalyticshealthcare.org) to join our mailing list.
+Visit [www.visualanalyticshealthcare.org](./index.html) to join our mailing list.
 
 
 ORGANIZERS

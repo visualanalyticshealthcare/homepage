@@ -9,10 +9,14 @@ Summary: VAHC 2023 Committee
 Organizing Committee
 ====================
 
-General Chairs
+General Chair
 --------------
 
 - Jürgen Bernard, Univeristy of Zurich
+
+Co-Chairs
+---------
+
 - Danny T.Y. Wu, University of Cincinnati
 - Annie T. Chen, University of Washington
 
@@ -80,3 +84,9 @@ Steering Committee
 - David Gotz, University of NC, Chapel Hill
 - Danny T.Y. Wu, University of Cincinnati
 - Jürgen Bernard, University of Zurich
+
+
+International Program Committee
+===============================
+
+- TBD
