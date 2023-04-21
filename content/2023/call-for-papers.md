@@ -15,8 +15,7 @@ The 2023 Workshop on Visual Analytics in Healthcare (VAHC 2023) is the 14th annu
 BEST PAPERS
 ===========
 
-VAHC assigns Best Paper and Honorable Mention awards. The awards entail a certificate and recognition on the VAHC website. This year, authors of high-quality papers that are topically appropriate will also be invited to submit a revised and extended version to an open call for the Special Issue of the Journal of the American Medical Informatics Association (JAMIA) on “Interactive Visualization of Health Data for Digital and Personal Health”. 
-The review process will seek to assign the same reviewers for previously accepted VAHC papers.
+VAHC assigns Best Paper and Honorable Mention awards. The awards entail a certificate and recognition on the VAHC website. This year, we also plan to invite authors of high-quality papers to submit a revised and extended version to an internationally recognized scientific journal. The topic of this special issue will be “Interactive Visualization of Health Data for Digital and Personal Health”. The review process will seek to assign the same reviewers for previously accepted VAHC papers. Watch out for details in our second call for papers.
 
 
 
