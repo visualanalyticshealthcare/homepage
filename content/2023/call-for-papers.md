@@ -71,10 +71,8 @@ We encourage a diverse range of submissions and demonstrations from academia, he
 - Positions and system demo papers (format “2+1”)
 - Posters (format: “2+1” abstract and A0 poster)
 
-Accepted application papers and research papers will be published in the IEEE Xplore digital library. Authors invited for submitting a revised paper version to JAMIA can choose between JAMIA and IEEE Xplore. Revised paper versions submitted to JAMIA will be part of the open call on *Visual Analytics in Digital and Personal Health*, while aiming at pertaining to the same reviewers as for VAHC. In the unlikely event that a revised paper submission will not be accepted by JAMIA, the paper will be published in the IEEE Xplore digital library. 
-
+Accepted application papers and research papers will be published in the IEEE Xplore digital library. 
 Accepted system demo papers and posters will be included in the VAHC proceedings and made available via IEEE VIS for digital download.
-
 All accepted types of submissions will have the chance for an oral presentation.
 
 Demo: Every system demo paper may be accompanied by a video demo submission
