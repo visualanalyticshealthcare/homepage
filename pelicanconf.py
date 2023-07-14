@@ -23,7 +23,6 @@ PLUGINS = [
 ]
 
 ARTICLE_EXCLUDES = [
-    'arxiv',
     'proceedings'
 ]
 
