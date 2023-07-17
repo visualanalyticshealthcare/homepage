@@ -87,7 +87,7 @@ Contact vahc.sig at gmail.com if you have any questions.
 IMPORTANT DATES
 ===============
 
-- Deadline for submission: **July 17, 2023**
+- Deadline for submission: **July 24, 2023**
 - Notification of acceptance: **August 14, 2023**
 - Camera-ready papers due: **August 28, 2023**
 - VAHC 2023 workshop: **October 22 or 23, 2023**
