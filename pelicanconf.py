@@ -34,8 +34,7 @@ AUTHOR_FEED_ATOM = None
 AUTHOR_FEED_RSS = None
 
 # Social widget if needed.
-SOCIAL = (('https://twitter.com/', '#'),
-          ('https://facebook.com/', '#'),)
+SOCIAL = (('twitter', 'https://twitter.com/VisAnalyticsHC'),)
 
 # we don't need pagination as there is no blog
 DEFAULT_PAGINATION = False
