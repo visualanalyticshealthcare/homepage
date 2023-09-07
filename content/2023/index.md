@@ -46,6 +46,6 @@ IMPORTANT DATES
 
 LATEST NEWS
 ===========
-
+- August 2023. We have accepted 11 submissions (6 papers and 5 posters/demos). Congratulations to all authors! 🎉
 - July 2023. New Special Issue on JAMIA on "Interactive Visualization of Health Data for Digital and Personal Health"
 - March 2022. Website migrated to GitHub.
