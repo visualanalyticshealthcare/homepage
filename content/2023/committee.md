@@ -25,20 +25,8 @@ Paper Chairs
 ------------
 
 - Swami Kandaswamy, Emory University
-- Karthik Adapa, University of North Carolina, Chapel Hill
 - Alessio Arleo, Technische Universität Wien
 
-
-Panel Chairs
-------------
-
-- TBD
-
-
-Poster and Demo Chairs
-----------------------
-
-- TBD
 
 
 Publicity Chair
@@ -58,30 +46,29 @@ Web Chairs
 ----------
 
 - Huan He, Mayo Clinic
-- Natthawut	(Max) Adulvanukosol, University of NC, Chapel Hill
+- Natthawut	(Max) Adulvanukosol, University of North Carolina at Chapel Hill
 
 
 Special Issue Liaison
 ---------------------
 
 - Jürgen Bernard, University of Zurich
-- David Gotz, UNC-Chapel Hill
+- David Gotz, University of North Carolina at Chapel Hill
 
 
 Special Issue Editors
 ---------------------
 
 - Jürgen Bernard, University of Zurich
-- David Gotz, University of NC, Chapel Hill
+- David Gotz, University of North Carolina at Chapel Hill
 - Annie T. Chen, University of Washington
 - Alessio Arleo, Technische Universität Wien
-- Karthik Adapa, University of North Carolina, Chapel Hill
 
 
 Steering Committee
 ==================
 
-- David Gotz, University of NC, Chapel Hill
+- David Gotz, University of North Carolina at Chapel Hill
 - Danny T.Y. Wu, University of Cincinnati
 - Jürgen Bernard, University of Zurich
 
