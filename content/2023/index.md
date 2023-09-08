@@ -40,13 +40,13 @@ IMPORTANT DATES
 - Deadline for submission: **July 24, 2023**
 - Notification of acceptance: **August 14, 2023**
 - Camera-ready papers due: **August 28, 2023**
-- VAHC 2023 workshop: **October 22 or 23, 2023**
+- VAHC 2023 workshop: **October 22, 2023: 2:00 PM-5:00 PM AEDT (UTC+11)**
 
 
 
 LATEST NEWS
 ===========
-- September 2023. The VAHC Workshop at IEEE VIS will be on Sunday, October 22, 2023: 2:00 PM-5:00 PM AEDT (UTC+11).
+- September 2023. **The VAHC Workshop at IEEE VIS will be on Sunday, October 22, 2023: 2:00 PM-5:00 PM AEDT (UTC+11).**
 - August 2023. We have accepted 11 submissions (6 papers and 5 posters/demos). Congratulations to all authors! 🎉
 - July 2023. New Special Issue on JAMIA on "Interactive Visualization of Health Data for Digital and Personal Health"
 - March 2022. Website migrated to GitHub.
