@@ -3,6 +3,13 @@ VAHC Homepage
 
 The homepage of Workshop on Visual Analytics in Healthcare (VAHC).
 
+
+Update Content
+--------------
+
+You can use the online VSCode editor to update any `.md` files and GitHub Action will automatically rebuild and publish the website after saving changes online (it will be committed to the `main` branch).
+
+
 Install and Quick Start
 -----------------------
 
