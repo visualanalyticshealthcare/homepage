@@ -275,3 +275,12 @@ li.tag-2 {
         width: 100%;
     }
 }
+tr:hover {
+    background-color: transparent !important;
+}
+.bd-left-0 {
+    border-left: 0;
+}
+.bd-right-0 {
+    border-right: 0;
+}
