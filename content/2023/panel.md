@@ -9,7 +9,7 @@ Summary: VAHC 2023 Panel
 
 ## **Panelists**
 
-### Quang Vinh Nguyen 
+### Dr. Quang Vinh Nguyen 
 *School of Computer, Data and Mathematical Sciences and MARCS Institute, Western Sydney University*
  
 Dr Quang Vinh Nguyen is an associate professor in visual analytics and a Director of Academic Programs - Postgraduate ICT at the School of Computer, Data and Mathematical Sciences, Western Sydney University, Australia. His research focuses on finding effective visualisations and visual analytics to support the analysis of large and complex health datasets, particularly for genomics, flow cytometry and biomedical data, as well as immersive visualisation, relational data, and applications. He has published over 120 refereed publications, including edited books, book chapters, journals and conference papers relating to this research field. He has received multiple research grants and funding. He has also (co)supervised to the completion of several research students in his field.
@@ -18,5 +18,17 @@ Dr Quang Vinh Nguyen is an associate professor in visual analytics and a Directo
 ### Dr. Simon D'Alfonso 
 *School of Computing and Information Systems, University of Melbourne*
 
-Dr D'Alfonso is a senior lecturer in the School of Computing and Information System at The University of Melbourne. His work focuses on the application of digital technology, ubiquitous computing and artificial intelligence to mental health and psychology more generally. He is also interested in exploring the philosophical and ethical dimensions of AI and digital technologies.
+Dr. D'Alfonso is a senior lecturer in the School of Computing and Information System at The University of Melbourne. His work focuses on the application of digital technology, ubiquitous computing and artificial intelligence to mental health and psychology more generally. He is also interested in exploring the philosophical and ethical dimensions of AI and digital technologies.
 
+
+### Dr. Levin Kuhlmann
+*Department of Data Science and AI, Faculty of Information Technology, Monash University*
+
+Dr. Levin Kuhlmann, is a data scientist, computational neuroscientist and neural engineer. His research areas include data science, machine learning, signal processing, control theory and computational neuroscience applications to digital health, neural engineering and neuroimaging.
+
+
+### Dr. Silvia Miksch
+*TU Wien, Institute of Visual Computing and Human-Centered Technology*
+  
+Dr. Silvia Miksch is University Professor and head of the Research Division “Visual Analytics” (Centre for Visual Analytics  Science  and  Technology, CVAST), Institute of Visual Computing and  Human-Centered Technology, TU Wien. She served as paper co-chair of several conferences (e.g., IEEE VAST 2010, 2011, 2020, VIS Overall Papers Chair (IEEE VIS 2021), EuroVis 2012) and on the editorial  board of several journals, including the IEEE Transactions on Visualization and Computer Graphics (TVCG) and the  Computer Graphics Forum (CGF). She acts in various strategic committees, such as the VAST steering committee and the VIS Executive Committee. Since 2023 she is chair of EuroVis Steering Committee. In 2020 she was inducted into The IEEE Visualization Academy. Her main research interests are Visualization/Visual Analytics (particularly Focus+Context and Interaction) in Time and Space.
+More information: https://www.cvast.tuwien.ac.at/team/silvia-miksch
