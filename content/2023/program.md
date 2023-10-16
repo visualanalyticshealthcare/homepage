@@ -9,7 +9,7 @@ Summary: VAHC 2023 Program
 # VAHC: 14th Workshop on Visual Analytics in Healthcare (Workshop)
 ## Location: Room 104
 
-<table boder="0" style="border-left:0; border-right:0;">
+<table>
 <tr>
     <th width="85px">&nbsp;</th>
     <th>Time</th>
@@ -181,9 +181,11 @@ Summary: VAHC 2023 Program
     03:55
     </td>
     <td>
+    <a target="_blank" href="./panel.html">
     <b>
     Panel: Interactive Visualization of Health Data for Digital and Personal Health
     </b>
+    </a>
     </td>
     <td>
         Jörn Kohlhammer

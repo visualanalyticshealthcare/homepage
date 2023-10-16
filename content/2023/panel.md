@@ -32,3 +32,9 @@ Dr. Levin Kuhlmann, is a data scientist, computational neuroscientist and neural
   
 Dr. Silvia Miksch is University Professor and head of the Research Division “Visual Analytics” (Centre for Visual Analytics  Science  and  Technology, CVAST), Institute of Visual Computing and  Human-Centered Technology, TU Wien. She served as paper co-chair of several conferences (e.g., IEEE VAST 2010, 2011, 2020, VIS Overall Papers Chair (IEEE VIS 2021), EuroVis 2012) and on the editorial  board of several journals, including the IEEE Transactions on Visualization and Computer Graphics (TVCG) and the  Computer Graphics Forum (CGF). She acts in various strategic committees, such as the VAST steering committee and the VIS Executive Committee. Since 2023 she is chair of EuroVis Steering Committee. In 2020 she was inducted into The IEEE Visualization Academy. Her main research interests are Visualization/Visual Analytics (particularly Focus+Context and Interaction) in Time and Space.
 More information: https://www.cvast.tuwien.ac.at/team/silvia-miksch
+
+
+### Dr. Nils Gehlenborg
+*Department of Biomedical Informatics, School of Medicine, Harvard University*
+
+Dr. Nils Gehlenborg, is an Associate Professor at Harvard Medical School's Department of Biomedical Informatics, where he directs the Master in Biomedical Informatics program and the Biomedical Informatics and Data Science Research Training (BIRT) program. His research focuses on creating visual interfaces and computational tools to enhance interactions with biomedical data, with a strong emphasis on collaboration with clinicians. Currently, he's working on 3D genome conformation data visualization and large-scale cancer genomics studies. Nils is actively involved in various roles in the field of biological data visualization and informatics, including co-chairing the Policy Working Group for the 4D Nucleome Network.
