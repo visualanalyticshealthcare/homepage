@@ -43,7 +43,7 @@ Summary: VAHC 2023 Program
         by Sarah Goodwin, Thom Saunders, Joanne Aitken, Peter D. Baade, Upeksha Chandrasiri, Di Cook, Susanna Cramb, Earl Duncan, Stephanie Kobakian, Jessie Roberts, and Kerrie Mengersen
         </i>
         <br>
-        Presented by Sarah Goodwin
+        Presented by Thom Saunders
     </td>
     <td rowspan="6">
         Alessio Arleo
