@@ -48,7 +48,7 @@ More information: [https://www.cvast.tuwien.ac.at/team/silvia-miksch](https://ww
 ### Dr. Nils Gehlenborg
 *Department of Biomedical Informatics, School of Medicine, Harvard University*
 
-Nils Gehlenborg, PhD, is an Associate Professor in the Department of Biomedical Informatics at Harvard Medical School and directs the Humans in Data Integration, Visualization, and Exploration (HIDIVE) Lab.
+Dr. Nils Gehlenborg, is an Associate Professor in the Department of Biomedical Informatics at Harvard Medical School and directs the Humans in Data Integration, Visualization, and Exploration (HIDIVE) Lab.
 The goal of Nils' research is to improve human health by developing visual interfaces and computational techniques that enable scientists, clinicians, and patients to efficiently interact with biomedical data. Integration of algorithmic and machine learning approaches from biomedical informatics with advanced data visualization techniques is central to his efforts, as is close collaboration with end users.
 
 Nils is a co-founder, former general chair and steering committee chair of BioVis, the Symposium on Biological Data Visualization, and co-founder of VIZBI, the annual workshop on Visualizing Biological Data.
