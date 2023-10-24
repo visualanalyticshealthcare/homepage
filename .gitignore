@@ -130,3 +130,6 @@ dmypy.json
 
 # the pelican output path for test
 output/
+
+# mac!!!!???
+.DS_Store

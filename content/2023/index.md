@@ -46,7 +46,8 @@ IMPORTANT DATES
 
 LATEST NEWS
 ===========
-- October 2023. Official program is available - [Check it out!](https://visualanalyticshealthcare.github.io/homepage/2023/program.html)
+- October 24, 2023. **Workshop events** - [Check it out!](./workshop-event.html)
+- October 2023. Official program is available - [Check it out!](./program.html)
 - September 2023. **The VAHC Workshop at IEEE VIS will be on Sunday, October 22, 2023: 2:00 PM-5:00 PM AEDT (UTC+11).**
 - August 2023. We have accepted 11 submissions (6 papers and 5 posters/demos). Congratulations to all authors! 🎉
 - July 2023. New Special Issue on JAMIA on "Interactive Visualization of Health Data for Digital and Personal Health"
