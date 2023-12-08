@@ -9,17 +9,22 @@ Summary: VAHC 2023 Workshop Event
 
 Contratulations to Sarah Goodwin, Thom Saunders, Joanne Aitken, Peter Baade, Upeksha Chandrasiri, Dianne Cook, Susanna Cramb, Earl Duncan, Stephanie Kobakian, Jessie Roberts, and Kerrie Mengersen in recognition of their outstanding contribution **"Designing the Australian Cancer Atlas: Visualising Geostatistical Model Uncertainty for Multiple Audiences"**
 
+In this category, the Honorable Mention Award goes to Rakhi Jain and Francisco Maria Calisto of their contribution **"The Iterative Design Process of an Explainable AI Application for Non-Invasive Diagnosis of CNS Tumors: A User-Centered Approach​"**
+
 <div class="row justify-content-md-center">
 <div class="col-lg-8">
 <img src="../images/vahc23-best-paper-award.jpg" width="100%">
 </div>
 </div>
 
+
 <br>
 
 # Best Poster Award
 
 Contratulations to Masaki Uchihara, Akiyo Tanabe, Hiroshi Kajio in recognition of their outstanding contribution **"Clinical Issues and Suggestions: Dashboard Visualization of the Trajectory of Patients with Malignant Hormone Producing Tumors for Precision Medicine"**
+
+In this category, the Honorable Mention Award goes to He Wang, Yang Ouyang, and Quan Li​ of their contribution **"A Visual Analytics Approach to Exploring the Feature and Label Space Based on Semi-structured Electronic Medical Records"**
 
 <div class="row justify-content-md-center">
 <div class="col-lg-8">

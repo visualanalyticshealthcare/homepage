@@ -7,6 +7,20 @@ Summary: VAHC 2023 Panel
 
 # Panel: Interactive Visualization of Health Data for Digital and Personal Health
 
+Special thanks to our five panelists Quang Vinh Nguyen, Simon D'Alfonso, Levin Kuhlmann, Silvia Miksch, and Nils Gehlenborg, it was a pleasure to have you at the VAHC!
+
+<div class="row">
+<div class="col-md-6">
+<img src="../images/vahc23-panel.jpg" width="100%">
+</div>
+<div class="col-md-6">
+<img src="../images/vahc23-panel-2.jpg" width="100%">
+</div>
+</div>
+
+<br>
+
+
 ## **Panelists**
 
 ### Dr. Quang Vinh Nguyen 
