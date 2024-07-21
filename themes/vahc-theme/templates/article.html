@@ -50,7 +50,7 @@
 {% block navigation %}
 <!-- Logo -->
 <a class="navbar-brand" href="{{ SITEURL }}">
-    VAHC {{ article.category }}
+    VAHC {{ article.category|get_year }}
 </a>
 
 <!-- Collapse button -->

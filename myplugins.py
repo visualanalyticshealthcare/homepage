@@ -12,7 +12,8 @@ def filter_get_year(date_str):
     '''
     Get the year in a string
     '''
-    ms = re.findall(REGEX_YEAR, date_str)
+    _date_str = '%s' % date_str
+    ms = re.findall(REGEX_YEAR, _date_str)
 
     if len(ms) == 0:
         return ''
@@ -57,6 +58,9 @@ def add_all_filters(pelican):
     pelican.env.filters.update({"pg2path": filter_pg2path})
     pelican.env.filters.update({"cut_sec_important_dates": filter_cut_sec_important_dates})
 
+    # add some custom functions
+    pelican.env.globals.update(mystr=lambda x: '%s' % x)
+    pelican.env.globals.update(myint=lambda x: int(x))
 
 ###########################################################
 # Plugin for make special pages

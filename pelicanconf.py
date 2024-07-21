@@ -71,19 +71,20 @@ DEFAULT_YEAR = '2023'
 # for past events
 PAST_EVENTS = [
     # year, location, date, 
-    ['2022', 'Washington, D.C.'],
-    ['2021', 'Virtual'],
-    ['2020', 'Virtual'],
-    ['2019', 'Vancouver, BC, Canada'],
-    ['2018', 'San Francisco, CA'],
-    ['2017', 'Phoenix, AZ'],
-    ['2016', 'Chicago, IL'],
-    ['2015', 'Chicago, IL'],
-    ['2014', 'Washington, D.C.'],
-    ['2013', 'Washington, D.C.'],
-    ['2012', 'Seattle, WA'],
-    ['2011', 'Providence, RI'],
-    ['2010', 'Salt Lake City, GA'],
+    [2023, 'Melbourne, Australia'],
+    [2022, 'Washington, D.C.'],
+    [2021, 'Virtual'],
+    [2020, 'Virtual'],
+    [2019, 'Vancouver, BC, Canada'],
+    [2018, 'San Francisco, CA'],
+    [2017, 'Phoenix, AZ'],
+    [2016, 'Chicago, IL'],
+    [2015, 'Chicago, IL'],
+    [2014, 'Washington, D.C.'],
+    [2013, 'Washington, D.C.'],
+    [2012, 'Seattle, WA'],
+    [2011, 'Providence, RI'],
+    [2010, 'Salt Lake City, GA'],
 ]
 
 # specify the customized theme

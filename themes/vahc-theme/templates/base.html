@@ -109,6 +109,8 @@
                     <h5>PAST EVENTS</h5>
                     <div class="row">
                         {% for event in PAST_EVENTS %}
+                        {% if article %}
+                        {% if myint(mystr(article.category)[:4]) > event[0]  %}
                         <div class="col col-md-6">
                             <a target="_blank"
                                 class="link-past-event"
@@ -117,6 +119,8 @@
                                 {{ event[1] }}
                             </a>
                         </div>
+                        {% endif %}
+                        {% endif %}
                         {% endfor %}
                     </div>
                 </div>
