@@ -12,31 +12,31 @@ Organizing Committee
 General Chair
 --------------
 
-- Danny T.Y. Wu, PhD, MSI, FAMIA, University of Cincinnati
+- Danny T.Y. Wu, University of Cincinnati
 
 Co-Chair
 ---------
 
-- Swami Kandaswamy, PhD, FAMIA, Emory University
+- Swami Kandaswamy, Emory University
 
 
 Paper Chairs
 ------------
 
-TBD
+- TBD
 
 
 Publicity Chair
 ---------------
 
-- Diana Lin, DAOM, MSHI, USDA 
+- Diana Lin, USDA 
 
 
 Publication Chairs
 -----------------
 
-- Michael Tsai, MD, MSHI, KURA Care 
-- Victor Lin, MD, FAMIA, Defense Health Agency 
+- Michael Tsai, KURA Care
+- Victor Lin, Defense Health Agency 
 
 
 Student Chair
@@ -48,7 +48,7 @@ Student Chair
 Web Chair
 ---------
 
-- Huan He, PhD, Yale University
+- Huan He, Yale University
 
 
 Student Committee
@@ -63,9 +63,9 @@ Student Committee
 Steering Committee
 ==================
 
-- David Gotz, PhD, University of North Carolina – Chapel Hill
-- Jürgen Bernard, PhD, University of Zurich
-- Annie T. Chen, PhD, University of Washington
+- David Gotz, University of North Carolina – Chapel Hill
+- Jürgen Bernard, University of Zurich
+- Annie T. Chen, University of Washington
 
 
 
