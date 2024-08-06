@@ -1,5 +1,5 @@
 Title: VAHC 2024 (14th workshop on Visual Analytics in Healthcare)
-Category: 2024-preview
+Category: 2024
 Date: 2024-07-21
 Slug: index
 Authors: VAHC Committee
@@ -24,7 +24,6 @@ We’re looking forward to seeing you in San Francisco.
 **Co-Chair**
 
 - Swami Kandaswamy, PhD, FAMIA, Emory University
-
 
 
 

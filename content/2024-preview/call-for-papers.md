@@ -1,5 +1,5 @@
 Title: Call for Papers and Demonstrations
-Category: 2024-preview
+Category: 2024
 Date: 2024-07-21
 Slug: call-for-papers
 Authors: VAHC Committee
@@ -53,20 +53,23 @@ PAPER SUBMISSION AND FORMAT GUIDELINES
 
 We encourage a diverse range of submissions and demonstrations from academia, healthcare organizations, and industry in any of the types listed below:
 
-- Short papers ("4+A+1" format, will be indexed in IEEE Xplore)
+- Short papers ("4+A+1" format)
     - **Research**
     - **Application**
+  
+- Doctoral consortium ("2+1" format)
+    - **Doctoral consortium**: focuses on preliminary results related to visual analytics
 
-- Abstracts ("2+1" format, will not be indexed)
+- Abstracts ("2+1" format)
     - **System demonstration** (every system demo may be accompanied by a video demo submission)
     - **Poster**
 
-Accepted papers will be submitted for inclusion into IEEE Xplore subject to meeting IEEE Xplore’s scope and quality requirements.
+<!-- Accepted papers will be submitted for inclusion into IEEE Xplore subject to meeting IEEE Xplore’s scope and quality requirements. -->
 
 **4+A+1**: We will accept papers with **four** pages plus one page of references (4+1). In addition, authors are encouraged to add additional figures to an appendix (A) section at the end of the manuscript. The appendix (A) section allows authors to present more of their interesting visualization results at greater resolutions, resulting in the paper format "4+A+1".
 
-All material will be submitted via the Precision Conference System (PCS):
-[https://new.precisionconference.com/user/login?society=vgtc](https://new.precisionconference.com/user/login?society=vgtc)
+All material will be submitted via the Precision Conference System (PCS). We will update the link soon.
+<!--[https://new.precisionconference.com/user/login?society=vgtc](https://new.precisionconference.com/user/login?society=vgtc) -->
 
 For all submissions, please use the VGTC conference style template: 
 [https://tc.computer.org/vgtc/publications/conference/](https://tc.computer.org/vgtc/publications/conference/)

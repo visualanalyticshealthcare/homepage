@@ -1,5 +1,5 @@
 Title: Proceedings
-Category: 2024-preview
+Category: 2024
 Date: 2024-07-21
 Slug: proceedings
 Authors: VAHC Committee

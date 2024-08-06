@@ -1,5 +1,5 @@
 Title: Committee
-Category: 2024-preview
+Category: 2024
 Date: 2024-04-13
 Slug: committee
 Authors: VAHC Committee
