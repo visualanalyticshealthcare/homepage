@@ -1,4 +1,4 @@
-Title: Call for Papers and Demonstrations
+Title: Call for Papers
 Category: 2024
 Date: 2024-07-21
 Slug: call-for-papers
@@ -53,14 +53,14 @@ PAPER SUBMISSION AND FORMAT GUIDELINES
 
 We encourage a diverse range of submissions and demonstrations from academia, healthcare organizations, and industry in any of the types listed below:
 
-- Short papers ("4+A+1" format)
+- Short papers (in "4+A+1" IEEE format, will be indexed in IEEE Xplore)
     - **Research**
     - **Application**
   
-- Doctoral consortium ("2+1" format)
+- Doctoral consortium (in "2+1" IEEE format or AMIA format, this will not be indexed)
     - **Doctoral consortium**: focuses on preliminary results related to visual analytics
 
-- Abstracts ("2+1" format)
+- Abstracts (in "2+1" IEEE format or AMIA format, this will not be indexed)
     - **System demonstration** (every system demo may be accompanied by a video demo submission)
     - **Poster**
 
@@ -71,27 +71,27 @@ We encourage a diverse range of submissions and demonstrations from academia, he
 All material will be submitted via the Precision Conference System (PCS). We will update the link soon.
 <!--[https://new.precisionconference.com/user/login?society=vgtc](https://new.precisionconference.com/user/login?society=vgtc) -->
 
-For all submissions, please use the VGTC conference style template: 
+For short papers, please use the IEEE VGTC conference style template: 
 [https://tc.computer.org/vgtc/publications/conference/](https://tc.computer.org/vgtc/publications/conference/)
 
 
-Contact vahc.sig at gmail.com if you have any questions.
+Contact [wutz@ucmail.uc.edu](mailto:wutz@ucmail.uc.edu) or [swaminathan.kandaswamy@emory.edu](mailto:swaminathan.kandaswamy@emory.edu) if you have any questions.
 
 
 IMPORTANT DATES
 ===============
 
-- Deadline for submission: **August 24, 2024**
-- Notification of acceptance: **September 14, 2024**
-- Camera-ready papers due: **October 28, 2024**
+- Deadline for submission: **September 7, 2024**
+- Notification of acceptance: **October 5, 2024**
+- Camera-ready papers due: **November 2, 2024**
 - VAHC 2024 workshop: **November 9-13, 2024 (TBD)**
 
-
+<!--
 JOIN OUR MAILING LIST
 ===
 
 Visit [www.visualanalyticshealthcare.org](./index.html) to join our mailing list.
-
+-->
 
 ORGANIZERS
 ===

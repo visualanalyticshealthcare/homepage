@@ -9,46 +9,37 @@ Summary: VAHC 2024 Committee
 Organizing Committee
 ====================
 
-General Chair
+General Chairs
 --------------
 
-- Danny T.Y. Wu, University of Cincinnati
-
-Co-Chair
----------
-
-- Swami Kandaswamy, Emory University
+- Danny T.Y. Wu, PhD, MSI, FAMIA; University of Cincinnati College of Medicine
+- Swami Kandaswamy, PhD, FAMIA; Emory University School of Medicine
 
 
 Paper Chairs
 ------------
 
-- TBD
+- Michael Tsai, MD, MS, FAMIA; Kura Care
+- Victor Lin, MD, MS, FMAIA; Defense Health Agency
+- Huan He, PhD; Yale School of Medicine
 
-
-Publicity Chair
+Finance/Publicity Chair
 ---------------
 
 - Diana Lin, USDA 
 
-
+<!--
 Publication Chairs
 -----------------
 
 - Michael Tsai, KURA Care
 - Victor Lin, Defense Health Agency 
-
+-->
 
 Student Chair
 -------------
 
 - Scott Vennemeyer, University of Cincinnati 
-
-
-Web Chair
----------
-
-- Huan He, Yale University
 
 
 Student Committee
@@ -59,6 +50,11 @@ Student Committee
 - Mallika Desai, University of Cincinnati
 
 
+Web Chair
+---------
+
+- Huan He, Yale University
+
 
 Steering Committee
 ==================
@@ -68,7 +64,7 @@ Steering Committee
 - Annie T. Chen, University of Washington
 
 
-
+<!--
 International Program Committee
 ===============================
 
@@ -107,3 +103,4 @@ International Program Committee
 - Velitchko Filipov, Vienna University of Technology
 - Victor Schetinger, Vienna University of Technology
 - Yiran Li, University of California, Davis
+-->
