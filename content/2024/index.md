@@ -1,4 +1,4 @@
-Title: VAHC 2024 (14th workshop on Visual Analytics in Healthcare)
+Title: VAHC 2024 (15th workshop on Visual Analytics in Healthcare)
 Category: 2024
 Date: 2024-07-21
 Slug: index
