@@ -53,7 +53,8 @@ Student Committee
 Web Chair
 ---------
 
-- Huan He, Yale University
+- Natthawut	(Max) Adulvanukosol, University of NC, Chapel Hill
+- Kevin Jin, Yale University
 
 
 Steering Committee
