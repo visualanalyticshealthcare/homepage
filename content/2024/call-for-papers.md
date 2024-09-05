@@ -81,10 +81,10 @@ Contact [wutz@ucmail.uc.edu](mailto:wutz@ucmail.uc.edu) or [swaminathan.kandaswa
 IMPORTANT DATES
 ===============
 
-- Deadline for submission: **September 7, 2024**
-- Notification of acceptance: **October 5, 2024**
-- Camera-ready papers due: **November 2, 2024**
-- VAHC 2024 workshop: **November 9-13, 2024 (TBD)**
+- Deadline for submission: **September 14, 2024**
+- Notification of acceptance: **October 12, 2024**
+- Camera-ready papers due: **November 4, 2024**
+- VAHC 2024 workshop: **November 9, 2024 (8:30am - 12:00pm PST)**
 
 <!--
 JOIN OUR MAILING LIST
