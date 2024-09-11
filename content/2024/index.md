@@ -36,5 +36,6 @@ IMPORTANT DATES
 
 LATEST NEWS
 ===========
+- September 11, 2024. Updated venue, registration, and paper submission format in the [Call for Papers](./call-for-papers.html).
 - July 24, 2024. [Call for submissions](./call-for-papers.html)
 - July 24, 2024. The website is online 

@@ -53,14 +53,14 @@ PAPER SUBMISSION AND FORMAT GUIDELINES
 
 We encourage a diverse range of submissions and demonstrations from academia, healthcare organizations, and industry in any of the types listed below:
 
-- Short papers (in "4+A+1" IEEE format, will be indexed in IEEE Xplore)
+- Short papers (in "4+A+1" IEEE format, will submitted to IEEE Xplore)
     - **Research**
     - **Application**
   
-- Doctoral consortium (in "2+1" IEEE format or AMIA format, this will not be indexed)
+- Doctoral consortium (in "2+1" IEEE format or AMIA format; these will not be indexed)
     - **Doctoral consortium**: focuses on preliminary results related to visual analytics
 
-- Abstracts (in "2+1" IEEE format or AMIA format, this will not be indexed)
+- Abstracts (in "2+1" IEEE format or AMIA format; these will not be indexed)
     - **System demonstration** (every system demo may be accompanied by a video demo submission)
     - **Poster**
 
@@ -76,6 +76,20 @@ For short papers, please use the IEEE VGTC conference style template:
 
 
 Contact [wutz@ucmail.uc.edu](mailto:wutz@ucmail.uc.edu) or [swaminathan.kandaswamy@emory.edu](mailto:swaminathan.kandaswamy@emory.edu) if you have any questions.
+
+
+VENUE
+=====
+Name: Hilton San Francisco Union Square
+Address: 333 O'Farrell St, San Francisco, CA 94102
+Contact: Nikki Unmack
+Contact Phone: 301-657-1291 ext. 199
+Contact Email: [nunmack@amia.org](mailto:nunmack@amia.org)
+
+
+REGISTRATION INFORMATION
+========================
+There is no registration deadline. The daily registration fee is $565 for AMIA members and $675 for non-members.
 
 
 IMPORTANT DATES
