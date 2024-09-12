@@ -23,20 +23,6 @@ Paper Chairs
 - Victor Lin, MD, MS, FMAIA; Defense Health Agency
 - Huan He, PhD; Yale School of Medicine
 
-Reviewers
----------
-
-1. Ming-Yuan Chih, PhD, MHA; Kentucky University Department of Health and Clinical Sciences. mch266@g.uky.edu
-2. Bo Dong, PhD; Xi’an Jiaotong University, School of Distance Education, dong.bo@xjtu.edu.cn
-3. Naleef Fareed, PhD, MBA; The Ohio State University Department of Biomedical Informatics. Naleef.Fareed@osumc.edu
-4. Sunyang Fu, PhD; University of Texas Health Science Center at Houston, Center for Translational AI Excellence and Applications in Medicine,. sunyang.fu@uth.tmc.edu
-5. Jia-Wen Guo, PhD, RN; University of Utah School of Nursing. u0477623@utah.edu
-6. Vipina K. Keloth, PhD; Yale University, Department of Biomedical Informatics and Data Science, vipina.kuttichikeloth@yale.edu
-7. Xueqing Peng, PhD; Yale University, Department of Biomedical Informatics and Data Science, xueqing.peng@yale.edu
-8. Tzu-Chun (Jimmy) Wu, PhD; University of Cincinnati College of Medicine, Department of Biostatistics, Health Informatics, and Data Science. wutn@ucmail.uc.edu
-9. Po-Yin Yen, PhD, RN; Washington University at St. Louis Institute for Informatics, Data Science, and Biostatistics. yenp@wustl.edu
-10. Qianqian Xie, PhD; Yale University, Department of Biomedical Informatics and Data Science, qianqian.xie@yale.edu
-
 
 Finance/Publicity Chair
 ---------------
@@ -78,6 +64,21 @@ Steering Committee
 - David Gotz, University of North Carolina – Chapel Hill
 - Jürgen Bernard, University of Zurich
 - Annie T. Chen, University of Washington
+
+
+Reviewers
+---------
+
+1. Ming-Yuan Chih, PhD, MHA; Kentucky University Department of Health and Clinical Sciences
+2. Bo Dong, PhD; Xi’an Jiaotong University, School of Distance Education
+3. Naleef Fareed, PhD, MBA; The Ohio State University Department of Biomedical Informatics
+4. Sunyang Fu, PhD; University of Texas Health Science Center at Houston, Center for Translational AI Excellence and Applications in Medicine
+5. Jia-Wen Guo, PhD, RN; University of Utah School of Nursing
+6. Vipina K. Keloth, PhD; Yale University, Department of Biomedical Informatics and Data Science
+7. Xueqing Peng, PhD; Yale University, Department of Biomedical Informatics and Data Science
+8. Tzu-Chun (Jimmy) Wu, PhD; University of Cincinnati College of Medicine, Department of Biostatistics, Health Informatics, and Data Science
+9. Po-Yin Yen, PhD, RN; Washington University at St. Louis Institute for Informatics, Data Science, and Biostatistics
+10. Qianqian Xie, PhD; Yale University, Department of Biomedical Informatics and Data Science
 
 
 <!--
