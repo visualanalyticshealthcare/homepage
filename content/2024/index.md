@@ -27,7 +27,7 @@ We’re looking forward to seeing you in San Francisco.
 IMPORTANT DATES
 ===============
 
-- Deadline for submission: **September 14, 2024**
+- Deadline for submission: **September 16, 2024**
 - Notification of acceptance: **October 12, 2024**
 - Camera-ready papers due: **November 4, 2024**
 - VAHC 2024 workshop: **November 9, 2024 (8:30am - 12:00pm PST)**
