@@ -1,13 +1,21 @@
 Title: VAHC Proceedings
-Date: 2023-01-12
+Date: 2025-01-07
 Slug: all-proceedings
 Authors: VAHC Committee
 Summary: All VAHC Proceedings
 
+Proceedings of the 2024 Workshop on Visual Analytics in Healthcare (VAHC 2024)
+
+- IEEE Xplore (To be published soon)
+- [Here](../2024/proceedings.html)
+
+Proceedings of the 2023 Workshop on Visual Analytics in Healthcare (VAHC 2023)
+
+- [IEEE Xplore](https://ieeexplore.ieee.org/xpl/conhome/10356763/proceeding) 
 
 Proceedings of the 2022 Workshop on Visual Analytics in Healthcare (VAHC 2022)
 
-- IEEE Xplore (To be published soon)
+- [IEEE Xplore](https://ieeexplore.ieee.org/xpl/conhome/10108515/proceeding) 
 - [Here](../2022/proceedings.html)
 
 
