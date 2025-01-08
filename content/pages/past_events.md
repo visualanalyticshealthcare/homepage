@@ -6,7 +6,9 @@ Summary: Past Events
 
 # PREVIOUS EVENTS
 
-[The 14th Workshop on Visual Analytics in Healthcare (VAHC 2023), Melbourne, Australia, October 22-27, 2023](../2023/)
+[The 15th Workshop on Visual Analytics in Healthcare (VAHC 2024), San Francisco, CA, November 9, 2024](../2024/)
+
+[The 14th Workshop on Visual Analytics in Healthcare (VAHC 2023), Melbourne, Australia, October 22, 2023](../2023/)
 
 [The 13th Workshop on Visual Analytics in Healthcare (VAHC 2022), Washington, D.C., November 5, 2022](../2022/)
 
