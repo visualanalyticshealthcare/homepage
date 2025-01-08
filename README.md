@@ -102,3 +102,37 @@ The content structure of each year is very similar (or just the same) to previou
 1. Duplicate a latest year folder in `content` and rename to target year. For example, copy the folder `2023`, paste and rename it to `2024` for the 2024.
 2. Update the `Category` value in **ALL** `.md` files in the newly created folder. For example, update `Category: 2024` in the `2024\index.md`, `2024\call-for-papers.md`, etc. As this category value will be used to generate the URL and folder, please ensure you updated **ALL** category information correctly. Otherwise the generated HTML files of other year may be affected.
 3. Update the contents of each article in the new folder.
+
+Proceedings Generation
+--------------------
+
+The repository includes utilities to generate proceedings pages from CSV submissions:
+
+1. `utils/csv2proc_pages.py`: A Python script that converts submissions CSV to proceedings pages
+   - Input: `content/{year}/submissions.csv` with columns: id, type, authors, title, abstract, publication_date, citation_conference_title
+   - Outputs:
+     - Individual HTML pages in `content/proceedings/{year}/`
+     - Proceedings markdown in `content/{year}/proceedings.md`
+   - Usage:
+     ```bash
+     cd utils
+     python csv2proc_pages.py <year>
+     # Example: python csv2proc_pages.py 2024
+     ```
+
+2. `utils/test_csv2proc_pages.py`: Unit tests for the proceedings generator
+   - Tests CSV parsing, proceedings markdown generation, and HTML page generation
+   - Usage:
+     ```bash
+     cd utils
+     python -m unittest test_csv2proc_pages.py
+     ```
+
+The CSV file should have the following required fields:
+- `id`: Unique identifier for the submission
+- `type`: Type of submission (e.g., "Poster", "Paper", "Demo")
+- `authors`: Comma-separated list of authors
+- `title`: Paper title
+- `abstract`: Paper abstract
+- `publication_date`: Publication date (YYYY-MM-DD)
+- `citation_conference_title`: Full conference title

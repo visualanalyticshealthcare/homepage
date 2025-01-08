@@ -2,29 +2,26 @@
 
 For a simple conference 
 """
-AUTHOR = 'Huan He'
-SITENAME = 'VAHC'
+
+AUTHOR = "Huan He"
+SITENAME = "VAHC"
 
 # just set this to relative path due to deployment issue
-SITEURL = './'
+SITEURL = "./"
 
 # where to store the markdown contents and other materials
-PATH = 'content'
+PATH = "content"
 
 # I'm here
-TIMEZONE = 'America/Chicago'
+TIMEZONE = "America/Chicago"
 
 # by default
-DEFAULT_LANG = 'en'
+DEFAULT_LANG = "en"
 
 # plugins
-PLUGINS = [
-    'myplugins'
-]
+PLUGINS = ["myplugins"]
 
-ARTICLE_EXCLUDES = [
-    'proceedings'
-]
+ARTICLE_EXCLUDES = ["proceedings"]
 
 # Feed generation is usually not desired when developing
 FEED_ALL_ATOM = None
@@ -34,7 +31,7 @@ AUTHOR_FEED_ATOM = None
 AUTHOR_FEED_RSS = None
 
 # Social widget if needed.
-SOCIAL = (('twitter', 'https://twitter.com/VisAnalyticsHC'),)
+SOCIAL = (("twitter", "https://twitter.com/VisAnalyticsHC"),)
 
 # we don't need pagination as there is no blog
 DEFAULT_PAGINATION = False
@@ -63,28 +60,29 @@ CATEGORIES_SAVE_AS = ""
 
 ###########################################################
 # default conf year
-# 
+#
 # this determines the landing page forwarding
 ###########################################################
-DEFAULT_YEAR = '2024'
+DEFAULT_YEAR = "2024"
 
 # for past events
 PAST_EVENTS = [
-    # year, location, date, 
-    [2023, 'Melbourne, Australia'],
-    [2022, 'Washington, D.C.'],
-    [2021, 'Virtual'],
-    [2020, 'Virtual'],
-    [2019, 'Vancouver, BC, Canada'],
-    [2018, 'San Francisco, CA'],
-    [2017, 'Phoenix, AZ'],
-    [2016, 'Chicago, IL'],
-    [2015, 'Chicago, IL'],
-    [2014, 'Washington, D.C.'],
-    [2013, 'Washington, D.C.'],
-    [2012, 'Seattle, WA'],
-    [2011, 'Providence, RI'],
-    [2010, 'Salt Lake City, GA'],
+    # year, location, date,
+    [2024, "San Francisco, CA"],
+    [2023, "Melbourne, Australia"],
+    [2022, "Washington, D.C."],
+    [2021, "Virtual"],
+    [2020, "Virtual"],
+    [2019, "Vancouver, BC, Canada"],
+    [2018, "San Francisco, CA"],
+    [2017, "Phoenix, AZ"],
+    [2016, "Chicago, IL"],
+    [2015, "Chicago, IL"],
+    [2014, "Washington, D.C."],
+    [2013, "Washington, D.C."],
+    [2012, "Seattle, WA"],
+    [2011, "Providence, RI"],
+    [2010, "Salt Lake City, GA"],
 ]
 
 # specify the customized theme

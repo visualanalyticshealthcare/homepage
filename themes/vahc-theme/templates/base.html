@@ -1,153 +1,178 @@
-{% if 'jinja2.ext.i18n' not in JINJA_ENVIRONMENT.extensions and 'jinja2.ext.i18n' not in JINJA_EXTENSIONS %}
-    {% macro _(msg) %}
-        {{ msg % kwargs }}
-    {% endmacro %}
-{% endif %}
+{% if 'jinja2.ext.i18n' not in JINJA_ENVIRONMENT.extensions and
+'jinja2.ext.i18n' not in JINJA_EXTENSIONS %} {% macro _(msg) %} {{ msg % kwargs
+}} {% endmacro %} {% endif %}
 
 <!DOCTYPE html>
 <html lang="{% block html_lang %}{{ DEFAULT_LANG }}{% endblock html_lang %}">
+  <!-- Head -->
+  <head>
+    {% block head %}
 
-<!-- Head -->
-<head>
-{% block head %}
+    <!-- Required metadata tags -->
+    <meta charset="utf-8" />
+    <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+    <meta name="HandheldFriendly" content="True" />
+    <meta
+      name="viewport"
+      content="width=device-width, initial-scale=1, shrink-to-fit=no"
+    />
 
-<!-- Required metadata tags -->
-<meta charset="utf-8" />
-<meta http-equiv="X-UA-Compatible" content="IE=edge" />
-<meta name="HandheldFriendly" content="True" />
-<meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no" />
+    <!-- Disable cache -->
+    <meta http-equiv="cache-control" content="no-cache" />
+    <meta http-equiv="expires" content="0" />
+    <meta http-equiv="pragma" content="no-cache" />
 
-<!-- Disable cache -->
-<meta http-equiv="cache-control" content="no-cache" />
-<meta http-equiv="expires" content="0" />
-<meta http-equiv="pragma" content="no-cache" />
+    <!-- Default metadata -->
+    {% block meta %}
+    <meta name="author" content="{{ AUTHOR }}" />
+    <meta name="description" content="{{ SITEDESCRIPTION }}" />
+    {% endblock %}
 
-<!-- Default metadata -->
-{% block meta %}
-<meta name="author" content="{{ AUTHOR }}" />
-<meta name="description" content="{{ SITEDESCRIPTION }}" />
-{% endblock %}
+    <!-- Title -->
+    <title>{% block title %} {{ SITETITLE }} {% endblock title %}</title>
 
-<!-- Title -->
-<title>
-{% block title %}
-    {{ SITETITLE }}
-{% endblock title %}
-</title>
+    <!-- Icon -->
+    <link
+      rel="shortcut icon"
+      href="../{{ THEME_STATIC_DIR }}/img/favicon.ico"
+      type="image/x-icon"
+    />
+    <link
+      rel="icon"
+      href="../{{ THEME_STATIC_DIR }}/img/favicon.ico"
+      type="image/x-icon"
+    />
 
-<!-- Icon -->
-<link rel="shortcut icon" href="../{{ THEME_STATIC_DIR }}/img/favicon.ico" type="image/x-icon">
-<link rel="icon" href="../{{ THEME_STATIC_DIR }}/img/favicon.ico" type="image/x-icon">
-
-<!-- Search engine -->
-{% if page in hidden_pages %}
+    <!-- Search engine -->
+    {% if page in hidden_pages %}
     <meta name="robots" content="noindex, nofollow" />
-{% else %}
+    {% else %}
     <meta name="robots" content="{{ ROBOTS }}" />
-{% endif %}
+    {% endif %}
 
-<!-- Global Styles -->
-<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/bootstrap/4.6.0/css/bootstrap.min.css">
-<!-- Theme Styles -->
-<link rel="stylesheet" href="../{{ THEME_STATIC_DIR }}/css/style.css">
+    <!-- Global Styles -->
+    <link
+      rel="stylesheet"
+      href="https://cdnjs.cloudflare.com/ajax/libs/bootstrap/4.6.0/css/bootstrap.min.css"
+    />
+    <!-- Theme Styles -->
+    <link rel="stylesheet" href="../{{ THEME_STATIC_DIR }}/css/style.css" />
 
-{% endblock head %}
-</head>
+    {% endblock head %}
+  </head>
 
-<!-- Body -->
-<body class="d-flex flex-column" data-spy="scroll" data-target="#toc" data-offset="0" style="position: relative;">
-
+  <!-- Body -->
+  <body
+    class="d-flex flex-column"
+    data-spy="scroll"
+    data-target="#toc"
+    data-offset="0"
+    style="position: relative"
+  >
     <!-- Navigation -->
-    <nav class="flex-shrink-0 navbar navbar-expand-md navbar-expand-lg navbar-dark bg-vahc-theme-dark text-light shadow-sm">
-    {% block navigation %}
-    {% endblock navigation %}
+    <nav
+      class="flex-shrink-0 navbar navbar-expand-md navbar-expand-lg navbar-dark bg-vahc-theme-dark text-light shadow-sm"
+    >
+      {% block navigation %} {% endblock navigation %}
     </nav>
 
     <!-- Full page -->
     <div class="flex-shrink-0 flex-grow-1">
-    {% block page %}
+      {% block page %}
 
-        <!-- Header -->
-        <header class="pt-3 pb-2"
-            style="background-image: url('../{{ THEME_STATIC_DIR }}/img/bg-dotmatrix.jpg');background-size: contain;">
-            {% block header %}{% endblock header %}
-        </header>
+      <!-- Header -->
+      <header
+        class="pt-3 pb-2"
+        style="background-image: url('../{{ THEME_STATIC_DIR }}/img/bg-dotmatrix.jpg');background-size: contain;"
+      >
+        {% block header %}{% endblock header %}
+      </header>
 
-        <!-- Main -->
-        <main class="py-3">
-            {% block main %}
-                <div class="container">
-                    <!-- Sharing -->
-                    {% block add_this %}
-                    {% if ADD_THIS_ID and (page_name or page or article) %}
-                        <div class="text-right mb-2 small" style="height: 26px">
-                            <div class="addthis_inline_share_toolbox"></div>
-                        </div>
-                    {% endif %}
-                    {% endblock add_this %}
+      <!-- Main -->
+      <main class="py-3">
+        {% block main %}
+        <div class="container">
+          <!-- Sharing -->
+          {% block add_this %} {% if ADD_THIS_ID and (page_name or page or
+          article) %}
+          <div class="text-right mb-2 small" style="height: 26px">
+            <div class="addthis_inline_share_toolbox"></div>
+          </div>
+          {% endif %} {% endblock add_this %}
 
-                    <!-- Content -->
-                    {% block content %}
-                    {% endblock content %}
-                </div>
-            {% endblock main %}
-        </main>
+          <!-- Content -->
+          {% block content %} {% endblock content %}
+        </div>
+        {% endblock main %}
+      </main>
 
-    {% endblock page %}
+      {% endblock page %}
     </div>
 
     <!-- Footer -->
     <footer class="flex-shrink-0 bg-vahc-theme text-light small py-1">
-        <div class="container pt-4 pb-3">
+      <div class="container pt-4 pb-3">
+        <div class="row">
+          <div class="col-12 col-md-3 mb-3">
+            VAHC<br />
+            ALL RIGHTS RESERVED.
+          </div>
+
+          <div class="col-12 col-md-6">
+            <h5>PAST EVENTS</h5>
             <div class="row">
-                <div class="col-12 col-md-3 mb-3">
-                    VAHC<br>
-                    ALL RIGHTS RESERVED.
-                </div>
-
-                <div class="col-12 col-md-6">
-                    <h5>PAST EVENTS</h5>
-                    <div class="row">
-                        {% for event in PAST_EVENTS %}
-                        {% if article %}
-                        {% if myint(mystr(article.category)[:4]) > event[0]  %}
-                        <div class="col col-md-6">
-                            <a target="_blank"
-                                class="link-past-event"
-                                href="../../archive/{{ event[0] }}/">
-                                {{ event[0] }}, 
-                                {{ event[1] }}
-                            </a>
-                        </div>
-                        {% endif %}
-                        {% endif %}
-                        {% endfor %}
-                    </div>
-                </div>
-                <div class="col-12 col-md-3">
-                    <h5>SOCIAL MEDIA</h5>
-                    <ul class="list-unstyled text-small">
-                        <li><a class="link-white" href="https://twitter.com/VisAnalyticsHC">Twitter</a></li>
-                    </ul>
-                </div>
-
+              {% for event in PAST_EVENTS %} {% if article %}
+              <div class="col col-md-6">
+                <a
+                  target="_blank"
+                  class="link-past-event"
+                  href="{% if event[0] >= 2022 %}../{{ event[0] }}/{% else %}../../archive/{{ event[0] }}/{% endif %}"
+                >
+                  {{ event[0] }}, {{ event[1] }}
+                </a>
+              </div>
+              {% endif %} {% endfor %}
             </div>
+          </div>
+          <div class="col-12 col-md-3">
+            <h5>SOCIAL MEDIA</h5>
+            <ul class="list-unstyled text-small">
+              <li>
+                <a class="link-white" href="https://twitter.com/VisAnalyticsHC"
+                  >Twitter</a
+                >
+              </li>
+            </ul>
+          </div>
         </div>
+      </div>
 
-        <div class="bg-vahc-theme-dark py-4">
-            <div class="container">
-                <div class="d-flex flex-col lg:flex-row justify-content-between text-sm">
-                    <div>
-                        <span>&copy; 2010-{{ DEFAULT_YEAR }} VAHC</span>
-                    </div>
-                    <div>
-                        <a class="footer_link" href="https://amia.org/privacy-policy" target="_new">AMIA Privacy Policy</a>
-                        |
-                        <a class="footer_link" href="https://www.ieee.org/security-privacy.html" target="_new">IEEE Privacy Policy</a>
-                    </div>
-                </div>
+      <div class="bg-vahc-theme-dark py-4">
+        <div class="container">
+          <div
+            class="d-flex flex-col lg:flex-row justify-content-between text-sm"
+          >
+            <div>
+              <span>&copy; 2010-{{ DEFAULT_YEAR }} VAHC</span>
             </div>
+            <div>
+              <a
+                class="footer_link"
+                href="https://amia.org/privacy-policy"
+                target="_new"
+                >AMIA Privacy Policy</a
+              >
+              |
+              <a
+                class="footer_link"
+                href="https://www.ieee.org/security-privacy.html"
+                target="_new"
+                >IEEE Privacy Policy</a
+              >
+            </div>
+          </div>
         </div>
+      </div>
     </footer>
 
     <!-- Scripts -->
@@ -155,8 +180,9 @@
     <script src="https://cdnjs.cloudflare.com/ajax/libs/bootstrap/4.6.0/js/bootstrap.min.js"></script>
 
     <!-- Local Script -->
-    <script type="text/javascript" src="../{{ THEME_STATIC_DIR }}/js/main.js"></script>
-
-</body>
-
+    <script
+      type="text/javascript"
+      src="../{{ THEME_STATIC_DIR }}/js/main.js"
+    ></script>
+  </body>
 </html>
