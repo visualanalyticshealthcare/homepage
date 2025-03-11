@@ -36,6 +36,7 @@ IMPORTANT DATES
 
 LATEST NEWS
 ===========
+- March 1, 2025. Updated the [proceedings of VAHC 2024](./proceedings.html).
 - September 16, 2024. Updated paper submission link and submission deadline.
 - September 11, 2024. Updated venue, registration, and paper submission format in the [Call for Papers](./call-for-papers.html).
 - July 24, 2024. [Call for submissions](./call-for-papers.html)
