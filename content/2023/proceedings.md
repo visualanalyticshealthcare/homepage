@@ -12,4 +12,4 @@ Summary: VAHC 2023 Proceedings
 
 # Proceedings of the 2023 Workshop on Visual Analytics in Healthcare (VAHC 2023)
 
-TBD
+[IEEE Explore](https://ieeexplore.ieee.org/xpl/conhome/10356763/proceeding)
