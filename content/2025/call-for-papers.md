@@ -52,10 +52,10 @@ PAPER SUBMISSION AND FORMAT GUIDELINES:
 We will accept short papers with up to six pages plus one page of references (6+1). 
 
 We encourage a diverse range of submissions and demonstrations from academia, healthcare organizations, and industry in any of the short paper types listed below: 
-Application/Research papers (format: “6+1”)
-System Demonstration papers (format “2+1”)
-Posters (format: “2+1” extended abstract and A0 poster)
-**NEW FOR THIS YEAR** Grand Challenge (position) paper(format “2+1”)
+- Application/Research papers (format: “6+1”)
+- System Demonstration papers (format “2+1”)
+- Posters (format: “2+1” extended abstract and A0 poster) 
+- (**NEW FOR THIS YEAR**) Grand Challenge (position) paper(format “2+1”)
 
 All accepted types of submissions will have the chance for an oral presentation.
 
@@ -76,14 +76,9 @@ VAHC assigns Best Paper and Honorable Mention awards, expressed by certificates 
 
 IMPORTANT DATES*:
 ----------------
-Deadline for submission:		June 30, 2025, 
-Notification of acceptance:		July 31, 2025
-Camera-ready papers due: 		August 17, 2025
-
-VAHC 2025 workshop:		November 2 or 3, 2025
+- Deadline for submission:		  **June 30, 2025**
+- Notification of acceptance:		**July 31, 2025**
+- Camera-ready papers due: 		  **August 17 2025**
+- VAHC 2025 workshop:		        **November 2nd or 3rd, 2025**
 
 *All deadlines are due at 23:59 Anywhere on Earth (AoE) on the date indicated.
-
-JOIN OUR MAILING LIST:
-----------------------
-Visit www.visualanalyticshealthcare.org to join our mailing list.
