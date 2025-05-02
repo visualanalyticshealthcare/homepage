@@ -19,28 +19,28 @@ TOPICS AND SCOPE:
 We welcome discussions on the use of VA approaches, interaction design, statistical methods, AI, explainable AI, and ML applied to healthcare data analysis. Participants may address the needs of various user groups, including (but not limited to) patients, clinical researchers, epidemiologists, public health analysts, physicians, hospital-based quality assurance officers, and insurance claim analysts.
 
 The 2025 Workshop on Visual Analytics in Healthcare will cover a range of topics on the design, implementation, deployment, evaluation, and abstraction of VA methods, including (but not limited to):
-Applications of visual analytics to:
-Clinical care
-Multi-omic datasets
-Patient-generated health data
-Digital and mobile health, and digital twins
-Patient- and consumer-related methods:
-Understanding of patient/health consumer behavior and experience
-Personalized healthcare and health management
-Patient education, empowerment, and quality of life
-Clinician-patient communication
-VA-machine intelligence for healthcare data visualization
-Human-centered AI for health decision-making
-Human-AI collaboration and modern mixed initiatives
-Equitable and ethical AI for healthcare analytics
-Explainable and interpretable AI
-Large-language model workflow integrations
-Public health data
-Epidemiology and disease surveillance
-Health behavior and lifestyle studies
-Health systems and policy evaluation
-Longitudinal and genetic studies
-Global health inequality and development tracking
+- Applications of visual analytics to:
+  - Clinical care
+  - Multi-omic datasets
+  - Patient-generated health data
+  - Digital and mobile health, and digital twins
+- Patient- and consumer-related methods:
+  - Understanding of patient/health consumer behavior and experience
+  - Personalized healthcare and health management
+  - Patient education, empowerment, and quality of life
+  - Clinician-patient communication
+- VA-machine intelligence for healthcare data visualization
+  - Human-centered AI for health decision-making
+  - Human-AI collaboration and modern mixed initiatives
+  - Equitable and ethical AI for healthcare analytics
+  - Explainable and interpretable AI
+  - Large-language model workflow integrations
+- Public health data
+  - Epidemiology and disease surveillance
+  - Health behavior and lifestyle studies
+  - Health systems and policy evaluation
+  - Longitudinal and genetic studies
+  - Global health inequality and development tracking
 
 IDENTIFYING GRAND CHALLENGES
 ---------------------------------------
