@@ -5,10 +5,6 @@ Slug: committee
 Authors: VAHC Committee
 Summary: VAHC 2025 Committee
 
-
-Committees
-====================
-
 GENERAL CHAIR
 ----------------
 - Alessio Arleo,		       TU Eindhoven		       
