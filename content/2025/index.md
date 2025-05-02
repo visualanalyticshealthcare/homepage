@@ -13,7 +13,7 @@ Now in its 16th year, the Workshop on Visual Analytics in Healthcare (VAHC) is t
 
 We invite you to share your research, insights, and enthusiasm at VAHC 2025. More information can be found at the [Call for Papers](./call-for-papers.html).
 
-We’re looking forward to seeing you in San Francisco.
+We’re looking forward to seeing you in Vienna!
 
 
 
@@ -21,13 +21,14 @@ We’re looking forward to seeing you in San Francisco.
 IMPORTANT DATES
 ===============
 
-- Deadline for submission: **TBD**
-- Notification of acceptance: **TBD**
-- Camera-ready papers due: **TBD**
-- VAHC 2025 workshop: **TBD**
+- Deadline for submission: June 30th, 2025
+- Notification of acceptance: July 31st, 2025
+- Camera-ready papers due: August 17th, 2025
+- VAHC 2025 workshop: November 2nd or 3rd 2025
 
 
 
 LATEST NEWS
 ===========
-- March 11, 2025. The website is online 
+- May 2nd, 2025. CfP is out!
+- March 11th, 2025. The website is online 
