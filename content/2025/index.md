@@ -21,10 +21,10 @@ We’re looking forward to seeing you in Vienna!
 IMPORTANT DATES
 ===============
 
-- Deadline for submission: June 30th, 2025
-- Notification of acceptance: July 31st, 2025
-- Camera-ready papers due: August 17th, 2025
-- VAHC 2025 workshop: November 2nd or 3rd 2025
+- Deadline for submission: **June 30th, 2025**
+- Notification of acceptance: **July 31st, 2025**
+- Camera-ready papers due: **August 17th, 2025**
+- VAHC 2025 workshop: November **2nd or 3rd 2025**
 
 
 
