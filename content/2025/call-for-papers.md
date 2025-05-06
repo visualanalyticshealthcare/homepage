@@ -53,6 +53,7 @@ PAPER SUBMISSION AND FORMAT GUIDELINES:
 We will accept short papers with up to six pages plus one page of references (6+1). 
 
 We encourage a diverse range of submissions and demonstrations from academia, healthcare organizations, and industry in any of the short paper types listed below: 
+
 - Application/Research papers (format: “6+1”)
 - System Demonstration papers (format “2+1”)
 - Posters (format: “2+1” extended abstract and A0 poster) 
