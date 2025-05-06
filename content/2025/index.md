@@ -15,7 +15,14 @@ We invite you to share your research, insights, and enthusiasm at VAHC 2025. Mor
 
 We’re looking forward to seeing you in Vienna!
 
+**General Chair**
 
+Alessio Arleo, TU Eindhoven
+
+**Co-Chairs**
+
+Renata Raidou, TU Vienna
+Gabriela Morgenshtern, University of Zurich
 
 
 IMPORTANT DATES
