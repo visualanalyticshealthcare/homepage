@@ -6,9 +6,6 @@ Authors: VAHC Committee
 Summary: VAHC 2025 Call for Papers and Demonstrations
 
 
-CALL FOR PAPERS
-============================================
-
 Full-day Workshop on Visual Analytics in Healthcare (VAHC)
 (In conjunction with IEEE VIS 2025)
 
