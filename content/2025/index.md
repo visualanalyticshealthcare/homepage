@@ -21,8 +21,8 @@ Alessio Arleo, TU Eindhoven
 
 **Co-Chairs**
 
-Renata Raidou, TU Vienna
-Gabriela Morgenshtern, University of Zurich
+- Renata Raidou, TU Vienna
+- Gabriela Morgenshtern, University of Zurich
 
 
 IMPORTANT DATES
