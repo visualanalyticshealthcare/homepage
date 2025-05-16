@@ -24,6 +24,20 @@ Alessio Arleo, TU Eindhoven
 - Renata Raidou, TU Vienna
 - Gabriela Morgenshtern, University of Zurich
 
+**Paper Chairs**
+
+- Velitchko Filipov,		   TU Wien
+- Robert Laramee,		     University of Nottingham	
+- Roy Ruddle,			       University of Leeds		
+- Jana Sedlakova,		     University of Zurich
+
+**Steering Committee**
+
+- Jürgen Bernard,		University of Zurich
+- Annie T. Chen,			University of Washington
+- David Gotz,			  UNC-Chapel Hill
+- Danny T.Y. Wu,			UNC-Chapel Hill
+
 
 IMPORTANT DATES
 ===============
@@ -37,5 +51,6 @@ IMPORTANT DATES
 
 LATEST NEWS
 ===========
+- May 13th, 2025. New Social Channels open! Check them Out!
 - May 2nd, 2025. CfP is out!
 - March 11th, 2025. The website is online 
