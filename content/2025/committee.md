@@ -7,7 +7,7 @@ Summary: VAHC 2025 Committee
 
 GENERAL CHAIR
 ----------------
-- Alessio Arleo,		       TU Eindhoven		       
+- Alessio Arleo,		       Eindhoven University of Technology		       
 
 
 ORGANIZERS
