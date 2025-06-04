@@ -17,7 +17,7 @@ We’re looking forward to seeing you in Vienna!
 
 **General Chair**
 
-Alessio Arleo, TU Eindhoven
+Alessio Arleo, Eindhoven University of Technology
 
 **Co-Chairs**
 
