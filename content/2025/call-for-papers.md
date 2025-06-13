@@ -56,7 +56,7 @@ We encourage a diverse range of submissions and demonstrations from academia, he
 - Posters (format: “2+1” extended abstract and A0 poster) 
 - (**NEW FOR THIS YEAR**) Grand Challenge (position) paper(format “2+1”)
 
-All accepted types of submissions will have the chance for an oral presentation.
+Accepted application and research papers will be published in the IEEE Xplore digital library. Accepted system demonstrations, posters, and position papers will be included in the VAHC proceedings and made available via IEEE VIS for digital download. All accepted types of submissions will have the chance for an oral presentation.
 
 Demonstrations: Every system demonstration paper may be accompanied by a video submission.
 
@@ -70,7 +70,7 @@ Contact vahc.sig at gmail.com if you have any questions for the chairs, while co
 
 BEST PAPERS:
 ----------------
-VAHC assigns Best Paper and Honorable Mention awards, expressed by certificates and recognition on the VAHC workshop website. We plan to invite authors of high-quality papers to submit a revised and extended version to an internationally recognized scientific journal. More details will be disclosed in the next weeks, as the submission deadline approaches.
+VAHC assigns Best Paper and Honorable Mention awards, expressed by certificates and recognition on the VAHC workshop website. We plan to invite authors of high-quality papers to submit a revised and extended version to an internationally recognized scientific journal.
 
 
 IMPORTANT DATES*:
