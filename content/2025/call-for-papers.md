@@ -60,11 +60,9 @@ Accepted application and research papers will be published in the IEEE Xplore di
 
 Demonstrations: Every system demonstration paper may be accompanied by a video submission.
 
-All material will be submitted via the Precision Conference System (PCS), and a link will be announced at a later date.
+All material will be submitted via the [Precision Conference System (PCS)](https://new.precisionconference.com/submissions).
 
-For all submissions, please use the VGTC conference style template: 
-https://tc.computer.org/vgtc/publications/journal/ 
-
+For all submissions, please use the [VGTC conference style template](https://tc.computer.org/vgtc/publications/conference/)
 
 Contact vahc.sig at gmail.com if you have any questions for the chairs, while contact vahc.paperschairs at gmail.com to get in touch with the paper chairs for any questions about the submission process.
 
