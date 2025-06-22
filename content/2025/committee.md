@@ -39,3 +39,27 @@ STEERING COMMITTEE
 - Annie T. Chen,			University of Washington
 - David Gotz,			  UNC-Chapel Hill
 - Danny T.Y. Wu,			UNC-Chapel Hill
+
+INTERNATIONAL PROGRAM COMMITTEE
+----------------
+- Arcia, Adriana    University of San Diego
+- Baumgartl, Tom    University of Cologne
+- Borland, David    The University of North Carolina at Chapel Hill
+- Elshehaly, Mai    City St George's, University of London
+- Gillmann, Christina   Fraunhofer FIT
+- He, Huan  Yale School of Medicine
+- Höllt, Thomas TU Delft
+- Kohlhammer, Jörn  Fraunhofer IGD
+- Kozlíková, Barbora     Masaryk University
+- Lawonn, Kai   University of Jena
+- Li, Yiran  UC Davis
+- Matkovic, Kresimir    VRVis Research Center
+- Pahr, Daniel  TU Wien
+- Piccolotto, Nikolaus  TU Wien
+- Preim, Bernhard   University of Magdeburg
+- Rajendran, Sandhya    TU Wien
+- Rind, Alexander   FH St. Poelten
+- Schreck, Tobias   TU Graz
+- Sondag, Max   Maastricht University
+- Tovanich, Natkamon    TU Wien
+- Warner, Jeremy    Brown University
