@@ -42,24 +42,24 @@ STEERING COMMITTEE
 
 INTERNATIONAL PROGRAM COMMITTEE
 ----------------
-- Arcia, Adriana    University of San Diego
-- Baumgartl, Tom    University of Cologne
-- Borland, David    The University of North Carolina at Chapel Hill
-- Elshehaly, Mai    City St George's, University of London
-- Gillmann, Christina   Fraunhofer FIT
-- He, Huan  Yale School of Medicine
-- Höllt, Thomas TU Delft
-- Kohlhammer, Jörn  Fraunhofer IGD
-- Kozlíková, Barbora     Masaryk University
-- Lawonn, Kai   University of Jena
-- Li, Yiran  UC Davis
-- Matkovic, Kresimir    VRVis Research Center
-- Pahr, Daniel  TU Wien
-- Piccolotto, Nikolaus  TU Wien
-- Preim, Bernhard   University of Magdeburg
-- Rajendran, Sandhya    TU Wien
-- Rind, Alexander   FH St. Poelten
-- Schreck, Tobias   TU Graz
-- Sondag, Max   Maastricht University
-- Tovanich, Natkamon    TU Wien
-- Warner, Jeremy    Brown University
+- Adriana Arcia,    University of San Diego
+- Tom Baumgartl,    University of Cologne
+- David Borland,    The University of North Carolina at Chapel Hill
+- Mai Elshehaly,     City St George's, University of London
+- Christina Gillmann,    Fraunhofer FIT
+- Huan He,   Yale School of Medicine
+- Thomas Höllt,  TU Delft
+- Jörn Kohlhammer,   Fraunhofer IGD
+- Barbora Kozlíková,      Masaryk University
+- Kai Lawonn,    University of Jena
+- Yiran Li,   UC Davis
+- Kresimir Matkovic,     VRVis Research Center
+- Daniel Pahr,   TU Wien
+- Nikolaus Piccolotto,   TU Wien
+- Bernhard Preim,    University of Magdeburg
+- Sandhya Rajendran,     TU Wien
+- Alexander Rind,    FH St. Poelten
+- Tobias Schreck,    TU Graz
+- Max Sondag,    Maastricht University
+- Natkamon Tovanich,     TU Wien
+- Jeremy Warner,     Brown University
