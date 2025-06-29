@@ -58,8 +58,13 @@ INTERNATIONAL PROGRAM COMMITTEE
 - Nikolaus Piccolotto,   TU Wien
 - Bernhard Preim,    University of Magdeburg
 - Sandhya Rajendran,     TU Wien
-- Alexander Rind,    FH St. Poelten
+- Alexander Rind,    FH St. Pölten
 - Tobias Schreck,    TU Graz
 - Max Sondag,    Maastricht University
 - Natkamon Tovanich,     TU Wien
 - Jeremy Warner,     Brown University
+- Wang Yifang,  Northwestern University
+- Alexander Rind, FH St. Pölten
+- Adam Perer, Carnegie Mellon University
+- Francisco Maria Calisto, University of Lisbona
+
