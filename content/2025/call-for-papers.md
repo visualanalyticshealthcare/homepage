@@ -73,7 +73,7 @@ VAHC assigns Best Paper and Honorable Mention awards, expressed by certificates 
 
 IMPORTANT DATES*:
 ----------------
-- Deadline for submission:		  **June 30, 2025**
+- Deadline for submission:		  <s>**June 30, 2025**</s> **July 5th, 2025**
 - Notification of acceptance:		**July 31, 2025**
 - Camera-ready papers due: 		  **August 17 2025**
 - VAHC 2025 workshop:		        **November 2nd or 3rd, 2025**
