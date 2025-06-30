@@ -42,7 +42,7 @@ Alessio Arleo, Eindhoven University of Technology
 IMPORTANT DATES
 ===============
 
-- Deadline for submission: **June 30th, 2025**
+- Deadline for submission: <s>**June 30th, 2025**</s> **July 5th, 2025**
 - Notification of acceptance: **July 31st, 2025**
 - Camera-ready papers due: **August 17th, 2025**
 - VAHC 2025 workshop: November **2nd or 3rd 2025**
@@ -51,6 +51,8 @@ IMPORTANT DATES
 
 LATEST NEWS
 ===========
+- June 30th, 2025. Submission deadline extended!
+- June 26th, 2025. IPC names are available and regularly updated.
 - May 13th, 2025. New Social Channels open! Check them Out!
 - May 2nd, 2025. CfP is out!
 - March 11th, 2025. The website is online 
