@@ -50,7 +50,8 @@ Where: **Vienna, Austria** (co-located with the VAHC workshop)
 Submission deadline: **August 20, 2025, 23:59 AoE**<br>
 Notification of acceptance: **September 5, 2025** (3 days before early bird registration ends)
 
-## Submission Guidelines ## 
+## Submission Guidelines ##
+
 Submit a single PDF to [vahc.sig@gmail.com](mailto:vahc.sig@gmail.com) by **August 20, 2025, 23:59 AoE**, containing:
 
 1. Three-page summary (excluding references), covering:
@@ -67,7 +68,7 @@ Submit a single PDF to [vahc.sig@gmail.com](mailto:vahc.sig@gmail.com) by **Augu
 
 2. Supervisor endorsement letter: Confirming PhD candidacy or enrollment in a PhD program, project topic and timeline, and expected benefit to the candidate. This should not be a letter of recommendation, but rather a brief statement of support.
 
-Formatting: Submissions should be single-author only. Please use the VGTC Conference Style LaTeX/Word template, which can be found here: https://tc.computer.org/vgtc/publications/conference 
+Formatting: Submissions should be single-author only. Please use the VGTC Conference Style LaTeX/Word template, which [can be found here](https://tc.computer.org/vgtc/publications/conference). 
 
 ## Organizers & Chairs ##
 
