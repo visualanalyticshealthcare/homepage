@@ -51,7 +51,7 @@ Submission deadline: **August 20, 2025, 23:59 AoE**<br>
 Notification of acceptance: **September 5, 2025** (3 days before early bird registration ends)
 
 ## Submission Guidelines ## 
-Submit a single PDF to [mailto:vahc.sig@gmail.com](vahc.sig@gmail.com) by **August 20, 2025, 23:59 AoE**, containing:
+Submit a single PDF to [vahc.sig@gmail.com](mailto:vahc.sig@gmail.com) by **August 20, 2025, 23:59 AoE**, containing:
 
 1. Three-page summary (excluding references), covering:
 
