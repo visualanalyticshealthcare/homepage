@@ -52,9 +52,9 @@ Notification of acceptance: **September 5, 2025** (3 days before early bird regi
 
 ## Submission Guidelines ##
 
-Submit a single PDF to [vahc.sig@gmail.com](mailto:vahc.sig@gmail.com) by **August 20, 2025, 23:59 AoE**, containing:
+Submit a single PDF to [vahc.sig@gmail.com](mailto:vahc.sig@gmail.com) by **August 20, 2025, 23:59 AoE**, as follows.
 
-1. Three-page summary (excluding references), covering:
+Three-page summary (excluding references), covering:
  * Abstract (max 150 words)
  * Problem statement, including the topic’s significance to healthcare
  * Research questions 
@@ -64,7 +64,8 @@ Submit a single PDF to [vahc.sig@gmail.com](mailto:vahc.sig@gmail.com) by **Augu
  * Planned contributions and evaluation strategy
  * Expected impact of the thesis on the visualization and healthcare communities
  * Mentorship request (250-300 words): Specifying the feedback you seek (e.g., evaluation design, clinical validation strategy).
-2. Supervisor endorsement letter: Confirming PhD candidacy or enrollment in a PhD program, project topic and timeline, and expected benefit to the candidate. This should not be a letter of recommendation, but rather a brief statement of support.
+
+Supervisor endorsement letter: Confirming PhD candidacy or enrollment in a PhD program, project topic and timeline, and expected benefit to the candidate. This should not be a letter of recommendation, but rather a brief statement of support.
 
 Formatting: Submissions should be single-author only. Please use the VGTC Conference Style LaTeX/Word template, which [can be found here](https://tc.computer.org/vgtc/publications/conference). 
 
