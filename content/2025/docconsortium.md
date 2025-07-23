@@ -23,10 +23,12 @@ We welcome topics including (but not limited to):
 * Public health visualization (e.g., pandemic care)
 
 Preference will be given to applicants who are:
+
 * Dissertation topics focusing on visual analytics applied to healthcare challenges
 * PhD candidates with at least one year remaining before defense
 
 Participants will receive:
+
 * Opportunity to discuss their dissertation topic with experienced peers within the VAHC community
 * Targeted feedback from senior mentors
 * Peer discussion and networking opportunities
@@ -42,14 +44,14 @@ Applications will be evaluated on their:
 
 Please note: In-person attendance is required for participation. In person event with individual presentations and small group mentorship. Participants are expected to attend the full workshop VAHC day collocated with IEEE VIS 2025 in Vienna, Austria.
 
-When: Sunday, November 2 2025 
-Where: Vienna, Austria (co-located with the VAHC workshop)
+When: **Sunday, November 2 2025** <br>
+Where: **Vienna, Austria** (co-located with the VAHC workshop)
 
 Submission deadline: **August 20, 2025, 23:59 AoE**<br>
 Notification of acceptance: **September 5, 2025** (3 days before early bird registration ends)
 
 ## Submission Guidelines ## 
-Submit a single PDF to [mailto:vahc.sig@gmail.com](vahc.sig@gmail.com) by August 20, 2025, 23:59 AoE, containing:
+Submit a single PDF to [mailto:vahc.sig@gmail.com](vahc.sig@gmail.com) by **August 20, 2025, 23:59 AoE**, containing:
 
 1. Three-page summary (excluding references), covering:
 
