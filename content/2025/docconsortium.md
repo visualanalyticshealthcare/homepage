@@ -73,11 +73,13 @@ Formatting: Submissions should be single-author only. Please use the VGTC Confer
 ## Organizers & Chairs ##
 
 ORGANIZERS:
+
 * Alessio Arleo, TU Eindhoven — General Chair
 * Gabriela Morgenshtern, University of Zurich — Co Chair
 * Renata G. Raidou, TU Wien — Co Chair
 
 CONSORTIUM CHAIRS:
+
 * Renata G. Raidou, TU Wien
 * Jürgen Bernard, University of Zurich
 * David Gotz, University of North Carolina at Chapel Hill
