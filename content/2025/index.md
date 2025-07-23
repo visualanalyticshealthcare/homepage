@@ -53,7 +53,7 @@ IMPORTANT DATES
 
 LATEST NEWS
 ===========
-- July 23rd, 2025. Call for Doctoral Consortium is out!
+- July 23rd, 2025. Call for [Doctoral Consortium](https://visualanalyticshealthcare.github.io/homepage/2025/docconsortium.html) is out!
 - July 1st, 2025. Workshop date announced! VAHC takes place on November 2nd, 2025
 - June 30th, 2025. Submission deadline extended!
 - June 26th, 2025. IPC names are available and regularly updated.
