@@ -5,9 +5,6 @@ Slug: program
 Authors: VAHC Committee
 Summary: VAHC 2025 Program
 
-
-# VAHC 2025: 16th Workshop on Visual Analytics in Healthcare (Workshop)
-
 This is a preliminary program - further updates will be made available as the workshop approaches. Times are expressed in 24hrs format, local time.
 
 <table>
@@ -38,7 +35,10 @@ This is a preliminary program - further updates will be made available as the wo
     <td>
         <b>
         <img src="https://www.evl.uic.edu/marai/photos/marai.jpg" style="float: left; width: 15%; min-width: 50px"/>
-        Keynote Speaker:  Prof. <a href="https://www.evl.uic.edu/marai/home/index.html">Liz Marai</a>, University of Illinois Chicago (USA) </b><br /><br />
+        Keynote Speaker:  Prof. <a href="https://www.evl.uic.edu/marai/home/index.html">Liz Marai</a>, University of Illinois Chicago (USA) </b><br />
+                        <i>Director, UIC Institute for Health Data Science Research</i>
+        <br />
+        <br />
         We are proud to announce that Prof. Marai accepted to be keynote speaker at VAHC 2025! Further details about her talk will be available here.
         <br>
         </td>
