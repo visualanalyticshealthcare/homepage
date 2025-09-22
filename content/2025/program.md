@@ -35,7 +35,7 @@ This is a preliminary program - further updates will be made available as the wo
     <td>
         <b>
         <img src="https://www.evl.uic.edu/marai/photos/marai.jpg" style="float: left; width: 15%; min-width: 50px"/>
-        Keynote Speaker:  Prof. <a href="https://www.evl.uic.edu/marai/home/index.html">Liz Marai</a>, University of Illinois Chicago (USA) </b><br />
+        Keynote Speaker:  Prof. <a href="https://www.evl.uic.edu/marai/home/index.html">G. Elisabeta Marai</a>, University of Illinois Chicago (USA) </b><br />
                         <i>Director, UIC Institute for Health Data Science Research</i>
         <br />
         <br />
