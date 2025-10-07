@@ -210,7 +210,7 @@ This is the VAHC 2025 program - further updates may be made as the workshop appr
         Doctoral Consortium Introduction
         </b>
     </td>
-    <td rowspan="10">
+    <td rowspan="11">
       TBD
     </td>
 </tr>
