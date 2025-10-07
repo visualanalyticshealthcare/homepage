@@ -25,7 +25,7 @@ This is the VAHC 2025 program - further updates may be made as the workshop appr
         Opening and Welcome
     </td>
     <td rowspan="9">
-        Alessio Arleo
+        Alessio Arleo + Velitchko Filipov
     </td>
 </tr>
 <tr>
@@ -199,7 +199,7 @@ This is the VAHC 2025 program - further updates may be made as the workshop appr
 </tr>
 
 <tr>
-    <td rowspan="11" class="bd-left-0">
+    <td rowspan="10" class="bd-left-0">
         Session 3
     </td>
     <td>
@@ -210,7 +210,7 @@ This is the VAHC 2025 program - further updates may be made as the workshop appr
         Doctoral Consortium Introduction
         </b>
     </td>
-    <td rowspan="11">
+    <td rowspan="10">
       TBD
     </td>
 </tr>
@@ -276,14 +276,6 @@ This is the VAHC 2025 program - further updates may be made as the workshop appr
     </td>
     <td>
         Recap of EuroVis 2025 Panel (HC & VIS) – <i>Robert S. Laramee</i>
-    </td>
-</tr>
-<tr>
-    <td>
-      15:05
-    </td>
-    <td>
-        VCBM Keynote Video
     </td>
 </tr>
 <tr>
