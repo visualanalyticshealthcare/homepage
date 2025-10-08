@@ -312,7 +312,6 @@ This is the VAHC 2025 program - further updates may be made as the workshop appr
         <b>Grand Challenge Interactive Session</b>
     </td>
     <td rowspan="2">
-        TBD
     </td>
 </tr>
 <tr>
