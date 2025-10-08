@@ -83,4 +83,4 @@ CONSORTIUM CHAIRS:
 * Renata G. Raidou, TU Wien
 * Jürgen Bernard, University of Zurich
 * David Gotz, University of North Carolina at Chapel Hill
-* _[To be announced]_ (keynote speaker)
+* Liz Marai, University of Illinois Chicago (USA)
