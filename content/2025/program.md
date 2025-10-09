@@ -40,8 +40,8 @@ This is the VAHC 2025 program - further updates may be made as the workshop appr
         <br />
         <br />
         We are proud to announce that Prof. Marai accepted to be keynote speaker at VAHC 2025! Further details about her talk will be available here.
-        <br>
-        </td>
+        <br />
+    </td>
 </tr>
 <tr>
     <td>
@@ -51,7 +51,7 @@ This is the VAHC 2025 program - further updates may be made as the workshop appr
         <b>
         Paper Chairs Summary and Best Paper Session
         </b>
-        <br>
+        <br />
     </td>
 </tr>
 <tr>
@@ -199,40 +199,22 @@ This is the VAHC 2025 program - further updates may be made as the workshop appr
 </tr>
 
 <tr>
-    <td rowspan="10" class="bd-left-0">
+    <td rowspan="7" class="bd-left-0">
         Session 3
     </td>
     <td>
       14:00
     </td>
     <td>
-        <b>
-        Doctoral Consortium Introduction
-        </b>
+        Recap of EuroVis 2025 Panel (HC & VIS) – <i>Robert S. Laramee</i>
     </td>
-    <td rowspan="10">
-      TBD
+    <td rowspan="7">
+        Jürgen Bernard
     </td>
 </tr>
 <tr>
     <td>
-      14:05
-    </td>
-    <td>
-        Doctoral Consortium Candidate #1
-    </td>
-</tr>
-<tr>
-    <td>
-      14:21
-    </td>
-    <td>
-        Doctoral Consortium Candidate #2
-    </td>
-</tr>
-<tr>
-    <td>
-      14:37
+      14:16
     </td>
     <td>
         <b>Introducing the Grand Challenge</b> – <i>Jürgen Bernard</i>
@@ -240,7 +222,7 @@ This is the VAHC 2025 program - further updates may be made as the workshop appr
 </tr>
 <tr>
     <td>
-      14:43
+      14:21
     </td>
     <td>
         Visual Analytics for Causal Reasoning from Real-World Health Data – <i>Arran Zeyu Wang</i>
@@ -248,7 +230,7 @@ This is the VAHC 2025 program - further updates may be made as the workshop appr
 </tr>
 <tr>
     <td>
-      14:46
+      14:24
     </td>
     <td>
         Bridging Service Design, Visualizations, and Visual Analytics in Healthcare Digital Twins: Challenges, Gaps, and Research Opportunities – <i>Mariia Ershova</i>
@@ -256,7 +238,7 @@ This is the VAHC 2025 program - further updates may be made as the workshop appr
 </tr>
 <tr>
     <td>
-      14:49
+      14:27
     </td>
     <td>
         Changing the Paradigm from Dynamic Queries to LLM-generated SQL Queries with Human Intervention – <i>Ambre Assor</i>
@@ -264,7 +246,7 @@ This is the VAHC 2025 program - further updates may be made as the workshop appr
 </tr>
 <tr>
     <td>
-      14:52
+      14:30
     </td>
     <td>
         Grand Challenge: The Urgent Need for Methods and Tools to Mediate Between the Research Cultures of Health Sciences and Visual Analytics – <i>Jürgen Bernard</i>
@@ -272,20 +254,13 @@ This is the VAHC 2025 program - further updates may be made as the workshop appr
 </tr>
 <tr>
     <td>
-      14:55
+      14:33
     </td>
     <td>
-        Recap of EuroVis 2025 Panel (HC & VIS) – <i>Robert S. Laramee</i>
+        Grand Challenge Interactive Session (Part I)
     </td>
 </tr>
-<tr>
-    <td>
-      15:10
-    </td>
-    <td>
-        Buffer / Discussion
-    </td>
-</tr>
+
 <tr>
     <td class="va">
        Break
@@ -302,24 +277,70 @@ This is the VAHC 2025 program - further updates may be made as the workshop appr
 </tr>
 
 <tr>
-    <td rowspan="2" class="va">
+    <td rowspan="2" class="bd-left-0">
         Session 4
     </td>
     <td>
         15:45
     </td>
     <td>
-        <b>Grand Challenge Interactive Session</b>
+        Grand Challenge Interactive Session (Part II)
     </td>
     <td rowspan="2">
+        &nbsp;
     </td>
 </tr>
 <tr>
     <td>
-    17:20
+    16:35
     </td>
     <td>
         VAHC Closing – <i>Alessio Arleo</i>
+    </td>
+</tr>
+
+<tr>
+    <td rowspan="4" class="bd-left-0">
+        Session 5
+    </td>
+    <td>
+        16:45
+    </td>
+    <td>
+        <b>Doctoral Consortium (Restricted to Doctoral Candidates and Committee)</b>
+    </td>
+    <td rowspan="4">
+        &nbsp;
+    </td>
+</tr>
+<tr>
+    <td>
+    16:50
+    </td>
+    <td>
+        Doctoral Consortium Candidate #1
+    </td>
+</tr>
+<tr>
+    <td>
+    17:06
+    </td>
+    <td>
+        Doctoral Consortium Candidate #2
+    </td>
+</tr>
+<tr>
+    <td>
+    17:22
+    </td>
+    <td>
+        VAHC Doctoral Consortium Closing 
+    </td>
+</tr>
+
+<tr>
+    <td colspan="4">
+    17:25 - End of the Workshop
     </td>
 </tr>
 
