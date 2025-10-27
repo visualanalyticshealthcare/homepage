@@ -15,7 +15,7 @@ This is the VAHC 2025 program - further updates may be made as the workshop appr
     <th width="180px">Chair</th>
 </tr>
 <tr>
-    <td rowspan="9" class="bd-left-0">
+    <td rowspan="10" class="bd-left-0">
         Session 1
     </td>
     <td>
@@ -24,7 +24,7 @@ This is the VAHC 2025 program - further updates may be made as the workshop appr
     <td>
         Opening and Welcome
     </td>
-    <td rowspan="9">
+    <td rowspan="10">
         Alessio Arleo + Velitchko Filipov
     </td>
 </tr>
@@ -59,7 +59,15 @@ This is the VAHC 2025 program - further updates may be made as the workshop appr
         10:10
     </td>
     <td>
-        Best Paper + Honorable Mention Presentations
+        What Do LLMs Prioritise When Adapting Visualizations to User Personas? - <i>Amir Hosseini</i>
+    </td>
+</tr>
+<tr>
+    <td>
+        10:22
+    </td>
+    <td>
+        MotiVAtor: Analyzing Physical Activity Study Data in Lab and Life through Visual Analytics - <i>Julius Rauscher</i>
     </td>
 </tr>
 <tr>
