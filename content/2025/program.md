@@ -38,9 +38,10 @@ This is the VAHC 2025 program - further updates may be made as the workshop appr
         Keynote Speaker:  Prof. <a href="https://www.evl.uic.edu/marai/home/index.html">G. Elisabeta Marai</a>, University of Illinois Chicago (USA) </b><br />
                         <i>Director, UIC Institute for Health Data Science Research</i>
         <br />
-        <b>The Blackbox Patient and the Power-of-Many</b>
         <br />
-        We are proud to announce that Prof. Marai accepted to be keynote speaker at VAHC 2025! Further details about her talk will be available here.
+        We are proud to announce that Prof. Marai accepted to be keynote speaker at VAHC 2025! 
+        <br />  
+        <b>The Blackbox Patient and the Power-of-Many</b>
         <br />
     </td>
 </tr>
