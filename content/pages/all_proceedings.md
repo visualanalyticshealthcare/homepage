@@ -6,6 +6,11 @@ Summary: All VAHC Proceedings
 
 Proceedings of the 2024 Workshop on Visual Analytics in Healthcare (VAHC 2024)
 
+- [IEEE Xplore](https://www.computer.org/csdl/proceedings/vahc/2025/2cGhZDzbKHC)
+- [Here](../2025/proceedings.html)
+
+Proceedings of the 2024 Workshop on Visual Analytics in Healthcare (VAHC 2024)
+
 - [IEEE Xplore](https://ieeexplore.ieee.org/xpl/conhome/10842677/proceeding)
 - [Here](../2024/proceedings.html)
 
