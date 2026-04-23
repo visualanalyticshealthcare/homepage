@@ -4,7 +4,7 @@ Slug: all-proceedings
 Authors: VAHC Committee
 Summary: All VAHC Proceedings
 
-Proceedings of the 2024 Workshop on Visual Analytics in Healthcare (VAHC 2024)
+Proceedings of the 2025 Workshop on Visual Analytics in Healthcare (VAHC 2025)
 
 - [IEEE Xplore](https://www.computer.org/csdl/proceedings/vahc/2025/2cGhZDzbKHC)
 - [Here](../2025/proceedings.html)
