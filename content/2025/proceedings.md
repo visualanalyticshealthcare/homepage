@@ -66,3 +66,10 @@ Summary: VAHC 2025 Proceedings
 *Anna Kleinau et al.*
 
 <p>&nbsp;</p>
+
+## POSTERS 
+
+<span class="badge badge-podium">podium</span>
+[Explaining Model Predictions When Users Aren’t Sure: XAI for scRNA-seq Cell-Type Classification](../proceedings/2025/vis25n-sub3665-cam-i7.pdf)
+
+*Josh Shell, Ashley K. Davis, Jun Bai, and Jillian Aurisano*
