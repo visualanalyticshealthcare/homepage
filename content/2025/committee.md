@@ -1,10 +1,9 @@
-Title: Committee
-Category: 2025
-Date: 2025-03-11
-Slug: committee
-Authors: VAHC Committee
-Summary: VAHC 2025 Committee
-
+---
+title: "Committee"
+summary: "VAHC 2025 Committee"
+navTitle: "Committee"
+order: 80
+---
 GENERAL CHAIR
 ----------------
 - Alessio Arleo,		       Eindhoven University of Technology		       

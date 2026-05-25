@@ -1,12 +1,9 @@
-Title: Keynote
-Category: 2022
-Date: 2022-07-21
-Slug: keynote
-Authors: VAHC Committee
-Summary: VAHC 2022 Keynote
-
-
-
+---
+title: "Keynote"
+summary: "VAHC 2022 Keynote"
+navTitle: "Keynote"
+order: 50
+---
 <img width="200px" src="../images/Victor-Lin.png">
 
 Visualizing Beyond the Frontiers of Healthcare

@@ -1,11 +1,9 @@
-Title: VAHC 2025 (16th workshop on Visual Analytics in Healthcare)
-Category: 2025
-Date: 2025-03-11
-Slug: index
-Authors: VAHC Committee
-Summary: In conjunction with [IEEE VIS 2025](https://ieeevis.org/year/2025/welcome), Vienna, Austria, November 2nd 2025
-
-
+---
+title: "VAHC 2025 (16th workshop on Visual Analytics in Healthcare)"
+summary: "In conjunction with [IEEE VIS 2025](https://ieeevis.org/year/2025/welcome), Vienna, Austria, November 2nd 2025"
+navTitle: "Home"
+order: 0
+---
 Welcome to VAHC 2025!
 =====================
 

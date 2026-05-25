@@ -1,10 +1,9 @@
-Title: Workshop Event
-Category: 2023
-Date: 2023-10-24
-Slug: workshop-event
-Authors: VAHC Committee
-Summary: VAHC 2023 Workshop Event
-
+---
+title: "Workshop Event"
+summary: "VAHC 2023 Workshop Event"
+navTitle: "Workshop Event"
+order: 60
+---
 # Best Paper Award
 
 Contratulations to Sarah Goodwin, Thom Saunders, Joanne Aitken, Peter Baade, Upeksha Chandrasiri, Dianne Cook, Susanna Cramb, Earl Duncan, Stephanie Kobakian, Jessie Roberts, and Kerrie Mengersen in recognition of their outstanding contribution **"Designing the Australian Cancer Atlas: Visualising Geostatistical Model Uncertainty for Multiple Audiences"**

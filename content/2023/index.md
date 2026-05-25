@@ -1,11 +1,9 @@
-Title: VAHC 2023 (14th workshop on Visual Analytics in Healthcare)
-Category: 2023
-Date: 2023-03-21
-Slug: index
-Authors: VAHC Committee
-Summary: In conjunction with IEEE VIS 2023, Melbourne, Australia, October 22-27
-
-
+---
+title: "VAHC 2023 (14th workshop on Visual Analytics in Healthcare)"
+summary: "In conjunction with IEEE VIS 2023, Melbourne, Australia, October 22-27"
+navTitle: "Home"
+order: 0
+---
 Welcome to VAHC 2023!
 =====================
 

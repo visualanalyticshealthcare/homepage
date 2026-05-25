@@ -1,0 +1,21 @@
+---
+import { getLatestYear } from '../lib/content';
+import { pageHref } from '../lib/years';
+
+const latestYear = getLatestYear();
+const target = pageHref(latestYear, 'index');
+---
+
+<!doctype html>
+<html lang="en">
+  <head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1" />
+    <meta http-equiv="refresh" content={`0; url=${target}`} />
+    <link rel="canonical" href={target} />
+    <title>VAHC</title>
+  </head>
+  <body>
+    <p><a href={target}>Continue to VAHC {latestYear}</a></p>
+  </body>
+</html>

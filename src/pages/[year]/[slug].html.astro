@@ -1,0 +1,24 @@
+---
+import WorkshopLayout from '../../layouts/WorkshopLayout.astro';
+import { getYears, getYearData, getYearPages } from '../../lib/content';
+
+export function getStaticPaths() {
+  return getYears().flatMap((year) =>
+    getYearPages(year)
+      .filter((page) => page.slug !== 'index')
+      .map((page) => ({ params: { year, slug: page.slug } }))
+  );
+}
+
+const { year, slug } = Astro.params;
+const yearData = getYearData(year);
+const page = getYearPages(year).find((entry) => entry.slug === slug);
+
+if (!page) {
+  throw new Error(`Missing page ${year}/${slug}`);
+}
+---
+
+<WorkshopLayout yearData={yearData} page={page}>
+  <article class="main-article" set:html={page.html} />
+</WorkshopLayout>

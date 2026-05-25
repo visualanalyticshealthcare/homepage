@@ -1,10 +1,9 @@
-Title: Program
-Category: 2025
-Date: 2025-03-11
-Slug: program
-Authors: VAHC Committee
-Summary: VAHC 2025 Program
-
+---
+title: "Program"
+summary: "VAHC 2025 Program"
+navTitle: "Program"
+order: 30
+---
 This is the VAHC 2025 program - further updates may be made as the workshop approaches. Times are expressed in 24hrs format, local time.
 
 <table>

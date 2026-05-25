@@ -1,0 +1,18 @@
+---
+import YearHomeLayout from '../../layouts/YearHomeLayout.astro';
+import { getYears, getYearData, getYearPage } from '../../lib/content';
+
+export function getStaticPaths() {
+  return getYears().map((year) => ({ params: { year } }));
+}
+
+const { year } = Astro.params;
+const yearData = getYearData(year);
+const page = getYearPage(year, 'index');
+
+if (!page) {
+  throw new Error(`Missing index page for ${year}`);
+}
+---
+
+<YearHomeLayout yearData={yearData} page={page} />

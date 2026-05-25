@@ -1,11 +1,9 @@
-Title: VAHC 2025 Proceedings
-Category: 2025
-Date: 2025
-Slug: proceedings
-Authors: VAHC Committee
-Summary: VAHC 2025 Proceedings
-
-
+---
+title: "VAHC 2025 Proceedings"
+summary: "VAHC 2025 Proceedings"
+navTitle: "Proceedings"
+order: 70
+---
 # All Proceedings
 
 [All VAHC Proceedings >](../page/all-proceedings.html)

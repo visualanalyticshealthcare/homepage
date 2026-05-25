@@ -1,11 +1,9 @@
-Title: VAHC 2024 Proceedings
-Category: 2024
-Date: 2024
-Slug: proceedings
-Authors: VAHC Committee
-Summary: VAHC 2024 Proceedings
-
-
+---
+title: "VAHC 2024 Proceedings"
+summary: "VAHC 2024 Proceedings"
+navTitle: "Proceedings"
+order: 70
+---
 # All Proceedings
 
 [All VAHC Proceedings >](../page/all-proceedings.html)

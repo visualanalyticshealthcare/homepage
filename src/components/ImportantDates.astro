@@ -1,0 +1,7 @@
+---
+const { html } = Astro.props;
+---
+
+{html && (
+  <aside class="important-dates" set:html={html} />
+)}

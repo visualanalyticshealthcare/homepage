@@ -1,0 +1,39 @@
+---
+import '../styles/global.css';
+import SiteHeader from '../components/SiteHeader.astro';
+import SiteFooter from '../components/SiteFooter.astro';
+import PageHeader from '../components/PageHeader.astro';
+import { getNavPages } from '../lib/content';
+import { sitePath } from '../lib/years';
+
+const { yearData, page, title, description } = Astro.props;
+const navPages = getNavPages(yearData.year);
+const pageTitle = title ?? page.title;
+const metaDescription = description ?? page.summaryText ?? yearData.summary;
+---
+
+<!doctype html>
+<html lang="en">
+  <head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1" />
+    <meta name="author" content="VAHC Committee" />
+    <meta name="description" content={metaDescription} />
+    <meta name="robots" content="index, follow" />
+    <title>{pageTitle} - VAHC</title>
+    <link rel="shortcut icon" href={sitePath('theme/img/favicon.ico')} type="image/x-icon" />
+    <link rel="icon" href={sitePath('theme/img/favicon.ico')} type="image/x-icon" />
+  </head>
+  <body>
+    <SiteHeader year={yearData.year} activeSlug={page.slug} navPages={navPages} />
+    <div class="page-shell">
+      <PageHeader title={page.title} summaryHtml={page.summaryHtml} isHome={page.slug === 'index'} />
+      <main class="site-main">
+        <div class="container">
+          <slot />
+        </div>
+      </main>
+    </div>
+    <SiteFooter />
+  </body>
+</html>

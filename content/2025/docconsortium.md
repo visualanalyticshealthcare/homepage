@@ -1,10 +1,9 @@
-Title: VAHC 2025 Doctoral Consortium
-Category: 2025
-Date: 2025
-Slug: docconsortium
-Authors: VAHC Committee
-Summary: VAHC 2025 Doctoral Consortium
-
+---
+title: "VAHC 2025 Doctoral Consortium"
+summary: "VAHC 2025 Doctoral Consortium"
+navTitle: "Doctoral Consortium"
+order: 20
+---
 # Call for Participation: VAHC 2025 Doctoral Consortium #
 
 Co located with IEEE VIS 2025 / Vienna / November 2nd, 2025

@@ -1,11 +1,9 @@
-Title: Call for Papers and Demonstrations
-Category: 2023
-Date: 2023-03-21
-Slug: call-for-papers
-Authors: VAHC Committee
-Summary: VAHC 2023 Call for papers
-
-
+---
+title: "Call for Papers and Demonstrations"
+summary: "VAHC 2023 Call for papers"
+navTitle: "Call for Papers"
+order: 10
+---
 CALL FOR PAPERS
 ============================================
 

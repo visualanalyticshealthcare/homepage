@@ -1,11 +1,9 @@
-Title: VAHC 2024 (15th workshop on Visual Analytics in Healthcare)
-Category: 2024
-Date: 2024-07-21
-Slug: index
-Authors: VAHC Committee
-Summary: In conjunction with [AMIA Annual Symposium 2024](https://amia.org/education-events/amia-2024-annual-symposium), San Francisco, CA, November 9-13
-
-
+---
+title: "VAHC 2024 (15th workshop on Visual Analytics in Healthcare)"
+summary: "In conjunction with [AMIA Annual Symposium 2024](https://amia.org/education-events/amia-2024-annual-symposium), San Francisco, CA, November 9-13"
+navTitle: "Home"
+order: 0
+---
 Welcome to VAHC 2024!
 =====================
 

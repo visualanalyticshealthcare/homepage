@@ -1,11 +1,9 @@
-Title: Committee
-Category: 2023
-Date: 2023-04-13
-Slug: committee
-Authors: VAHC Committee
-Summary: VAHC 2023 Committee
-
-
+---
+title: "Committee"
+summary: "VAHC 2023 Committee"
+navTitle: "Committee"
+order: 80
+---
 Organizing Committee
 ====================
 

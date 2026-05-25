@@ -1,0 +1,38 @@
+---
+import { pageHref, sitePath } from '../lib/years';
+
+const { year, activeSlug, navPages } = Astro.props;
+---
+
+<nav class="site-nav navbar navbar-expand-md navbar-dark bg-vahc-theme-dark text-light shadow-sm">
+  <a class="navbar-brand" href={pageHref(year, 'index')}>VAHC {year}</a>
+  <button class="navbar-toggler" type="button" aria-expanded="false" aria-label="Toggle navigation" data-menu-toggle>
+    <span class="navbar-toggler-icon small"></span>
+  </button>
+  <div class="navbar-collapse" id="navbarMenu" data-menu>
+    <ul class="navbar-nav mr-auto text-center">
+      {navPages.map((page) => (
+        <li class:list={['nav-item', { active: page.slug === activeSlug }]}>
+          <a class="nav-link" href={pageHref(year, page.slug)}>
+            {page.slug === 'index' && <span class="nav-home" aria-hidden="true">⌂</span>}
+            {page.slug === 'index' ? 'Home' : page.navTitle}
+          </a>
+        </li>
+      ))}
+      <li class="nav-item">
+        <a class="nav-link" href={sitePath('page/past-events.html')}>
+          Past Events
+        </a>
+      </li>
+    </ul>
+  </div>
+</nav>
+
+<script>
+  const toggle = document.querySelector('[data-menu-toggle]');
+  const menu = document.querySelector('[data-menu]');
+
+  toggle?.addEventListener('click', () => {
+    menu?.classList.toggle('show');
+  });
+</script>

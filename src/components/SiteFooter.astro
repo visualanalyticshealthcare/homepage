@@ -1,0 +1,46 @@
+---
+import { getLatestYear } from '../lib/content';
+import { pastEvents, pageHref, staticHref } from '../lib/years';
+
+const latestYear = getLatestYear();
+---
+
+<footer class="site-footer bg-vahc-theme text-light small">
+  <div class="container footer-main">
+    <div class="footer-brand">
+      VAHC<br />
+      ALL RIGHTS RESERVED.
+    </div>
+
+    <div class="footer-events">
+      <h5>PAST EVENTS</h5>
+      <div class="past-event-grid">
+        {pastEvents.map(([year, location]) => (
+          <a class="link-past-event" href={year >= 2022 ? pageHref(String(year), 'index') : staticHref(`archive/${year}/`)}>
+            {year}, {location}
+          </a>
+        ))}
+      </div>
+    </div>
+
+    <div class="footer-social">
+      <h5>SOCIAL MEDIA</h5>
+      <a class="link-white" href="https://www.linkedin.com/company/visual-analytics-in-healthcare/posts/?feedView=all">LinkedIn</a>
+      <a class="link-white" href="https://bsky.app/profile/vahc.bsky.social">BlueSky</a>
+      <a class="link-white" href="https://www.threads.com/@vahc_2025">Threads</a>
+      <a class="link-white" href="https://mastodon.social/@VAHC">Mastodon</a>
+      <a class="link-white" href="https://twitter.com/VisAnalyticsHC">Twitter</a>
+    </div>
+  </div>
+
+  <div class="footer-bottom bg-vahc-theme-dark">
+    <div class="container footer-bottom-inner">
+      <span>&copy; 2010-{latestYear} VAHC</span>
+      <span>
+        <a class="footer_link" href="https://amia.org/privacy-policy">AMIA Privacy Policy</a>
+        |
+        <a class="footer_link" href="https://www.ieee.org/security-privacy.html">IEEE Privacy Policy</a>
+      </span>
+    </div>
+  </div>
+</footer>

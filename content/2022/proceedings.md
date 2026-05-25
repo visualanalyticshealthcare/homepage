@@ -1,10 +1,9 @@
-Title: VAHC 2022 Proceedings
-Category: 2022
-Date: 2022
-Slug: proceedings
-Authors: VAHC Committee
-Summary: VAHC 2022 Proceedings
-
+---
+title: "VAHC 2022 Proceedings"
+summary: "VAHC 2022 Proceedings"
+navTitle: "Proceedings"
+order: 70
+---
 # All Proceedings
 
 [All VAHC Proceedings >](../page/all-proceedings.html)

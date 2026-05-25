@@ -1,9 +1,7 @@
-Title: VAHC Proceedings
-Date: 2025-01-07
-Slug: all-proceedings
-Authors: VAHC Committee
-Summary: All VAHC Proceedings
-
+---
+title: "VAHC Proceedings"
+summary: "All VAHC Proceedings"
+---
 Proceedings of the 2025 Workshop on Visual Analytics in Healthcare (VAHC 2025)
 
 - [IEEE Xplore](https://www.computer.org/csdl/proceedings/vahc/2025/2cGhZDzbKHC)

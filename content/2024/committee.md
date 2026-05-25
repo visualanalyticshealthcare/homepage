@@ -1,11 +1,9 @@
-Title: Committee
-Category: 2024
-Date: 2024-04-13
-Slug: committee
-Authors: VAHC Committee
-Summary: VAHC 2024 Committee
-
-
+---
+title: "Committee"
+summary: "VAHC 2024 Committee"
+navTitle: "Committee"
+order: 80
+---
 Organizing Committee
 ====================
 

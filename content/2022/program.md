@@ -1,11 +1,9 @@
-Title: Program
-Category: 2022
-Date: 2022-07-21
-Slug: program
-Authors: VAHC Committee
-Summary: VAHC 2022 Program
-
-
+---
+title: "Program"
+summary: "VAHC 2022 Program"
+navTitle: "Program"
+order: 30
+---
 [Download Brochure PDF](../files/VAHC-2022-Brochure.pdf)
 
 

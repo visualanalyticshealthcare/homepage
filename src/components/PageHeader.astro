@@ -1,0 +1,14 @@
+---
+import { sitePath } from '../lib/years';
+
+const { title, summaryHtml, isHome = false } = Astro.props;
+---
+
+<header class="page-header" style={`--page-header-bg: url('${sitePath('theme/img/bg-dotmatrix.jpg')}')`}>
+  <div class="container">
+    <div class="header-copy">
+      <h1 class="header-title">{title}</h1>
+      {isHome && summaryHtml && <p class="header-sub-title" set:html={summaryHtml} />}
+    </div>
+  </div>
+</header>

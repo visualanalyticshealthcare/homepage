@@ -1,9 +1,7 @@
-Title: Past Events
-Date: 2023-01-12
-Slug: past-events
-Authors: VAHC Committee
-Summary: Past Events
-
+---
+title: "Past Events"
+summary: "Past Events"
+---
 # PREVIOUS EVENTS
 
 [The 15th Workshop on Visual Analytics in Healthcare (VAHC 2024), San Francisco, CA, November 9, 2024](../2024/)

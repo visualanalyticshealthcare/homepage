@@ -1,11 +1,9 @@
-Title: Program
-Category: 2023
-Date: 2023-10-10
-Slug: program
-Authors: VAHC Committee
-Summary: VAHC 2023 Program
-
-
+---
+title: "Program"
+summary: "VAHC 2023 Program"
+navTitle: "Program"
+order: 30
+---
 # VAHC: 14th Workshop on Visual Analytics in Healthcare (Workshop)
 ## Location: Room 104
 

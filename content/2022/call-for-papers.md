@@ -1,11 +1,9 @@
-Title: Call for Papers
-Category: 2022
-Date: 2022-03-21
-Slug: call-for-papers
-Authors: VAHC Committee
-Summary: VAHC 2022 Call for papers
-
-
+---
+title: "Call for Papers"
+summary: "VAHC 2022 Call for papers"
+navTitle: "Call for Papers"
+order: 10
+---
 CALL FOR PAPERS, POSTERS, AND DEMONSTRATIONS
 ============================================
 

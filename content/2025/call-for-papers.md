@@ -1,11 +1,9 @@
-Title: Call for Papers
-Category: 2025
-Date: 2025-03-11
-Slug: call-for-papers
-Authors: VAHC Committee
-Summary: VAHC 2025 Call for Papers and Demonstrations
-
-
+---
+title: "Call for Papers"
+summary: "VAHC 2025 Call for Papers and Demonstrations"
+navTitle: "Call for Papers"
+order: 10
+---
 Full-day Workshop on Visual Analytics in Healthcare (VAHC)
 (In conjunction with IEEE VIS 2025)
 

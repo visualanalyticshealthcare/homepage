@@ -1,11 +1,9 @@
-Title: Committee
-Category: 2022
-Date: 2022-07-21
-Slug: committee
-Authors: VAHC Committee
-Summary: VAHC 2022 Committee
-
-
+---
+title: "Committee"
+summary: "VAHC 2022 Committee"
+navTitle: "Committee"
+order: 80
+---
 Organizing Committee
 ====================
 

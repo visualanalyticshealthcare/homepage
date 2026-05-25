@@ -1,0 +1,15 @@
+---
+import WorkshopLayout from './WorkshopLayout.astro';
+import ImportantDates from '../components/ImportantDates.astro';
+import { splitImportantDates } from '../lib/markdown';
+
+const { yearData, page } = Astro.props;
+const split = splitImportantDates(page.html);
+---
+
+<WorkshopLayout yearData={yearData} page={page}>
+  <div class="home-content">
+    <article class="main-article" set:html={split.mainHtml} />
+    <ImportantDates html={split.datesHtml} />
+  </div>
+</WorkshopLayout>

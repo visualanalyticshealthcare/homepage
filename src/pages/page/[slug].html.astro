@@ -1,0 +1,53 @@
+---
+import '../../styles/global.css';
+import SiteFooter from '../../components/SiteFooter.astro';
+import PageHeader from '../../components/PageHeader.astro';
+import { getLatestYear, getStandalonePages } from '../../lib/content';
+import { pageHref, sitePath } from '../../lib/years';
+
+export function getStaticPaths() {
+  return getStandalonePages().map((page) => ({ params: { slug: page.slug } }));
+}
+
+const { slug } = Astro.params;
+const page = getStandalonePages().find((entry) => entry.slug === slug);
+const latestYear = getLatestYear();
+
+if (!page) {
+  throw new Error(`Missing standalone page ${slug}`);
+}
+---
+
+<!doctype html>
+<html lang="en">
+  <head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1" />
+    <meta name="author" content="VAHC Committee" />
+    <meta name="description" content={page.summaryText} />
+    <meta name="robots" content="index, follow" />
+    <title>{page.title} - VAHC</title>
+    <link rel="shortcut icon" href={sitePath('theme/img/favicon.ico')} type="image/x-icon" />
+  </head>
+  <body>
+    <nav class="site-nav navbar navbar-expand-md navbar-dark bg-vahc-theme-dark text-light shadow-sm">
+      <a class="navbar-brand" href={pageHref(latestYear, 'index')}>VAHC</a>
+      <div class="navbar-collapse show">
+        <ul class="navbar-nav mr-auto text-center">
+          <li class="nav-item">
+            <a class="nav-link" href={pageHref(latestYear, 'index')}>⌂ Back to Home</a>
+          </li>
+        </ul>
+      </div>
+    </nav>
+    <div class="page-shell">
+      <PageHeader title={page.title} />
+      <main class="site-main">
+        <div class="container">
+          <article class="main-article" set:html={page.html} />
+        </div>
+      </main>
+    </div>
+    <SiteFooter />
+  </body>
+</html>

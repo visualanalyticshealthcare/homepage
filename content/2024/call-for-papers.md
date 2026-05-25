@@ -1,11 +1,9 @@
-Title: Call for Papers
-Category: 2024
-Date: 2024-07-21
-Slug: call-for-papers
-Authors: VAHC Committee
-Summary: VAHC 2024 Call for Papers and Demonstrations
-
-
+---
+title: "Call for Papers"
+summary: "VAHC 2024 Call for Papers and Demonstrations"
+navTitle: "Call for Papers"
+order: 10
+---
 CALL FOR PAPERS
 ============================================
 
