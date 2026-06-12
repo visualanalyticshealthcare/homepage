@@ -63,11 +63,12 @@ CATEGORIES_SAVE_AS = ""
 #
 # this determines the landing page forwarding
 ###########################################################
-DEFAULT_YEAR = "2025"
+DEFAULT_YEAR = "2026"
 
 # for past events
 PAST_EVENTS = [
     # year, location, date,
+    [2025, "Vienna, Austria"],
     [2024, "San Francisco, CA"],
     [2023, "Melbourne, Australia"],
     [2022, "Washington, D.C."],
