@@ -13,8 +13,7 @@ Now in its 17th year, the Workshop on Visual Analytics in Healthcare (VAHC) is t
 
 We invite you to share your research, insights, and enthusiasm at VAHC 2026. More information can be found at the [Call for Papers](./call-for-papers.html).
 
-Workshop is planned on **November 7, 2026!**
-
+Workshop is planned on **November 7, 2026!**. 
 We’re looking forward to seeing you in Dallas!
 
 **General Chair**
