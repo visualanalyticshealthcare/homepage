@@ -13,50 +13,53 @@ Now in its 17th year, the Workshop on Visual Analytics in Healthcare (VAHC) is t
 
 We invite you to share your research, insights, and enthusiasm at VAHC 2026. More information can be found at the [Call for Papers](./call-for-papers.html).
 
-Workshop is [planned](https://ieeevis.org/year/2026/info/program/week-at-a-glance) on **November 2nd, 2026!**
+Workshop is planned on **November 7, 2026!**
 
-We’re looking forward to seeing you in Vienna!
+We’re looking forward to seeing you in Dallas!
 
 **General Chair**
 
-Alessio Arleo, Eindhoven University of Technology
+- Swaminathan Kandaswamy, PhD, FAMIA; Emory University School of Medicine
 
 **Co-Chairs**
 
-- Renata Raidou, TU Vienna
-- Gabriela Morgenshtern, University of Zurich
+- Danny T.Y. Wu, PhD, MSI, FAMIA; UNC-Chapel Hill
+- Huan He, PhD; Mayo Clinic
 
-**Paper Chairs**
+**Organizing Committee**
 
-- Velitchko Filipov,		   TU Wien
-- Robert Laramee,		     University of Nottingham	
-- Roy Ruddle,			       University of Leeds		
-- Jana Sedlakova,		     University of Zurich
+- Michael Tsai, MD, MSHI; KURA Care (publication) 
+<!-- - Brian Ondov, PhD; Yale University School of Medicine (poster) -->
+- Diana Lin, DAOM, MSHI; Madigan Army Medical Center (publicity)
+- Victor Lin, MD, FAMIA; US Navy (system and design) 
+- Suguna Kotte, PharmD, MPS-BMHI; University of North Carolina (student / trainee) 
+- Minseo Kim, BSLS; University of North Carolina (student / trainee)
+- Blake Vander Wood MD; Emory University/ Children’s Healthcare of Atlanta (student / trainee)
+
 
 **Steering Committee**
 
 - Jürgen Bernard,		University of Zurich
 - Annie T. Chen,			University of Washington
 - David Gotz,			  UNC-Chapel Hill
-- Danny T.Y. Wu,			UNC-Chapel Hill
 
 
 IMPORTANT DATES
 ===============
 
-- Deadline for submission:  **July 10th, 2026**
-- Notification of acceptance: **July 31st, 2026**
-- Camera-ready papers due: **August 17th, 2026**
-- VAHC 2026 workshop: November **2nd or 3rd 2026**
+- Deadline for submission:  **August 1, 2026**
+- Notification of acceptance: **September 4, 2026**
+- Camera-ready papers due: **October 17, 2026**
+- VAHC 2026 workshop: **November 7, 2026**
 
 
 
 LATEST NEWS
 ===========
-- July 23rd, 2026. Call for [Doctoral Consortium](https://visualanalyticshealthcare.github.io/homepage/2026/docconsortium.html) is out!
+<!-- - July 23rd, 2026. Call for [Doctoral Consortium](https://visualanalyticshealthcare.github.io/homepage/2026/docconsortium.html) is out!
 - July 1st, 2026. Workshop date announced! VAHC takes place on November 2nd, 2026
 - June 30th, 2026. Submission deadline extended!
 - June 26th, 2026. IPC names are available and regularly updated.
-- May 13th, 2026. New Social Channels open! Check them Out!
-- May 2nd, 2026. CfP is out!
-- March 11th, 2026. The website is online 
+- May 13th, 2026. New Social Channels open! Check them Out! -->
+<!-- - May 2nd, 2026. CfP is out! -->
+- June 12, 2026. The website is online 
