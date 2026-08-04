@@ -46,8 +46,8 @@ We’re looking forward to seeing you in Dallas!
 IMPORTANT DATES
 ===============
 
-- Deadline for submission:  **August 1, 2026**
-- Notification of acceptance: **September 4, 2026**
+- Deadline for submission:  <s>**August 1, 2026**</s> **August 10, 2026**
+- Notification of acceptance: <s>**September 4, 2026**</s> **September 13, 2026**
 - Camera-ready papers due: **October 17, 2026**
 - VAHC 2026 workshop: **November 7, 2026**
 
