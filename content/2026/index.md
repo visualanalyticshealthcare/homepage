@@ -14,7 +14,7 @@ Now in its 17th year, the Workshop on Visual Analytics in Healthcare (VAHC) is t
 We invite you to share your research, insights, and enthusiasm at VAHC 2026. More information can be found at the [Call for Papers](./call-for-papers.html).
 
 Workshop is planned on **November 7, 2026!**. 
-We’re looking forward to seeing you in Dallas!
+We're looking forward to seeing you in Dallas!
 
 **General Chair**
 
@@ -27,14 +27,13 @@ We’re looking forward to seeing you in Dallas!
 
 **Organizing Committee**
 
+- Naleef Fareed, PhD; The Ohio State University (paper and publication)
 - Michael Tsai, MD, MSHI; KURA Care (publication) 
-<!-- - Brian Ondov, PhD; Yale University School of Medicine (poster) -->
 - Diana Lin, DAOM, MSHI; Madigan Army Medical Center (publicity)
 - Victor Lin, MD, FAMIA; US Navy (system and design) 
 - Suguna Kotte, PharmD, MPS-BMHI; University of North Carolina (student / trainee) 
 - Minseo Kim, BSLS; University of North Carolina (student / trainee)
-- Blake Vander Wood MD; Emory University/ Children’s Healthcare of Atlanta (student / trainee)
-
+- Blake Vander Wood MD; Emory University/ Children's Healthcare of Atlanta (student / trainee)
 
 **Steering Committee**
 

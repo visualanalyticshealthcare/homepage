@@ -17,13 +17,13 @@ Summary: VAHC 2026 Committee
 
 **Organizing Committee**
 
+- Naleef Fareed, PhD; The Ohio State University (paper and publication)
 - Michael Tsai, MD, MSHI; KURA Care (publication) 
-<!-- - Brian Ondov, PhD; Yale University School of Medicine (poster) -->
 - Diana Lin, DAOM, MSHI; Madigan Army Medical Center (publicity)
 - Victor Lin, MD, FAMIA; US Navy (system and design) 
 - Suguna Kotte, PharmD, MPS-BMHI; University of North Carolina (student / trainee) 
 - Minseo Kim, BSLS; University of North Carolina (student / trainee)
-- Blake Vander Wood MD; Emory University/ Children’s Healthcare of Atlanta (student / trainee)
+- Blake Vander Wood MD; Emory University/ Children's Healthcare of Atlanta (student / trainee)
 
 
 **Steering Committee**
