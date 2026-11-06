@@ -82,20 +82,20 @@ The workshop is held in conjunction with AMIA 2026 Annual Symposium, Dallas, TX,
 </tr>
 <tr>
     <td>
-        <b>System Demo:</b> (15 min presentation + 5 min Q&amp;A) 
-        <br />
-        Developing a Visual Analytics Dashboard to Assess the Readability of Patient Education Materials
-        <br />
-         – <i>Himaja Chintalapalli <!--, Jinhee Son, Prasanna Tydula, Tzu-Chun Wu, and Danny Wu--></i>
-    </td>
-</tr>
-<tr>
-    <td>
         <b>System Demo:</b> (15 min presentation + 5 min Q&amp;A)
         <br />
         Designing and Evaluating an Opioid Overdose Death Dashboard Including Predictive Modeling for Public Health Decision Makers
         <br />
         – <i>Ramona Olvera, Brandon Slover, Mengda Yu, Le Wang, Jacob Herman, Neena Thomas, Soledad Fernandez, and Naleef Fareed</i>
+    </td>
+</tr>
+<tr>
+    <td>
+        <b>System Demo:</b> (15 min presentation + 5 min Q&amp;A) 
+        <br />
+        Developing a Visual Analytics Dashboard to Assess the Readability of Patient Education Materials
+        <br />
+         – <i>Himaja Chintalapalli, Jinhee Son, Prasanna Tydula, Tzu-Chun Wu, and Danny Wu</i>
     </td>
 </tr>
 <tr>
